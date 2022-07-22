@@ -26,7 +26,7 @@ my_species <- SplitNames(x = user_list$Species)$Common
 key <- scan(file = "API.txt", what = "character")
 
 # A single center requires vector of coordinates
-locs <- c(32, -110)
+locs <- c(34, -116)
 SitesReport(centers = locs, 
             ebird_key = key, 
             species_seen = my_species)
