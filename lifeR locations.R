@@ -13,7 +13,7 @@ library("lifeR")
 vignette(topic = "lifer-intro", package = "lifeR")
 
 # Location of the file with your year list
-list_file <- "data/ebird_na_life_list.csv"
+list_file <- "data/ebird_world_life_list.csv"
 
 # Read the list of species into memory
 user_list <- read.csv(file = list_file)
@@ -26,7 +26,7 @@ my_species <- SplitNames(x = user_list$Species)$Common
 key <- scan(file = "API.txt", what = "character")
 
 # A single center requires vector of coordinates
-locs <- c(34, -116)
+locs <- c(35.171, -111.637)
 SitesReport(centers = locs, 
             ebird_key = key, 
             species_seen = my_species)

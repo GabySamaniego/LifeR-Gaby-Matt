@@ -1,320 +1,397 @@
 Row #,Species,Count,Location,S/P,Date,LocID,SubID
-1,Common Ground Dove,,Patagonia Lake SP--Birding Trail,US-AZ,14 May 2022,L2064166,S110168252
-2,Song Sparrow,,Patagonia Lake SP--Birding Trail,US-AZ,14 May 2022,L2064166,S110168252
-3,Abert's Towhee,,Patagonia Lake SP--Birding Trail,US-AZ,14 May 2022,L2064166,S110168252
-4,Red-winged Blackbird,,Patagonia Lake SP--Birding Trail,US-AZ,14 May 2022,L2064166,S110168252
-5,Northern Waterthrush,1,Patagonia Lake SP--Birding Trail,US-AZ,14 May 2022,L2064166,S110168252
-6,Mexican Whip-poor-will,,Cave Creek Canyon--South Fork,US-AZ,07 May 2022,L129099,S109384030
-7,Whiskered Screech-Owl,,Cave Creek Canyon--South Fork,US-AZ,07 May 2022,L129099,S109384030
-8,Brown-crested Flycatcher,,Cave Creek Canyon--South Fork,US-AZ,07 May 2022,L129099,S109384030
-9,Dusky-capped Flycatcher,,Cave Creek Canyon--Herb Martyr CG,US-AZ,07 May 2022,L128985,S109384031
-10,Bushtit,,Cave Creek Canyon--Southwestern Research Station,US-AZ,07 May 2022,L129102,S109384032
-11,Inca Dove,,Paradise--George Walker House,US-AZ,24 Apr 2022,L320213,S108007486
-12,Arizona Woodpecker,,Paradise--George Walker House,US-AZ,24 Apr 2022,L320213,S108007486
-13,Brown-headed Cowbird,,Paradise--George Walker House,US-AZ,24 Apr 2022,L320213,S108007486
-14,Golden Eagle,,"2405 South Hatari Lane, San Simon, Arizona, US (31.912, -109.137)",US-AZ,23 Apr 2022,L18440803,S108007487
-15,Bullock's Oriole,,"2405 South Hatari Lane, San Simon, Arizona, US (31.912, -109.137)",US-AZ,23 Apr 2022,L18440803,S108007487
-16,Lazuli Bunting,,"2405 South Hatari Lane, San Simon, Arizona, US (31.912, -109.137)",US-AZ,23 Apr 2022,L18440803,S108007487
-17,Lucifer Hummingbird,2,Portal--Jasper/Moisan feeders (opened 2015),US-AZ,09 Apr 2022,L3642537,S106878250
-18,Chipping Sparrow,,Portal,US-AZ,09 Apr 2022,L129060,S106758974
-19,Blue-throated Mountain-gem,,Cave Creek Canyon--Southwestern Research Station,US-AZ,09 Apr 2022,L129102,S106758975
-20,Painted Redstart,,Cave Creek Canyon--Southwestern Research Station,US-AZ,09 Apr 2022,L129102,S106758975
-21,Hooded Oriole,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,03 Apr 2022,L12260655,S106199731
-22,Canada Goose,,"565 Pinewood Boulevard, Munds Park, Arizona, US (34.94, -111.639)",US-AZ,12 Mar 2022,L18096291,S104714147
-23,Juniper Titmouse,,Sugar Loaf Trailhead,US-AZ,12 Mar 2022,L13323766,S104701360
-24,Snow Goose,,Whitewater Draw WA,US-AZ,20 Feb 2022,L168765,S103257990
-25,Northern Pintail,,Whitewater Draw WA,US-AZ,20 Feb 2022,L168765,S103257990
-26,Western Screech-Owl,,Cochise Stronghold,US-AZ,19 Feb 2022,L306139,S103257991
-27,Rainbow Starfrontlet,,Camino Al Cielo,EC-A,12 Jan 2022,L8552768,S100629018
-28,Masked Trogon,,Camino Al Cielo,EC-A,12 Jan 2022,L8552768,S100629018
-29,Blackish Tapaculo,,Camino Al Cielo,EC-A,12 Jan 2022,L8552768,S100629018
-30,Scarlet-bellied Mountain Tanager,,Camino Al Cielo,EC-A,12 Jan 2022,L8552768,S100629018
-31,Purple-throated Sunangel,,Auto selected,EC-A,12 Jan 2022,L17408650,S100627346
-32,Plushcap,,Auto selected,EC-A,12 Jan 2022,L17408650,S100627346
-33,Common Potoo,,Jamu Lodge,EC-U,07 Jan 2022,L2487418,S100484815
-34,Limpkin,,Jamu Lodge,EC-U,07 Jan 2022,L2487418,S100484815
-35,Harpy Eagle,,Jamu Lodge,EC-U,07 Jan 2022,L2487418,S100484815
-36,Black-headed Parrot,,Jamu Lodge,EC-U,07 Jan 2022,L2487418,S100484815
-37,Common Pauraque,,Jamu Lodge,EC-U,06 Jan 2022,L2487418,S100484756
-38,Short-tailed Swift,,Jamu Lodge,EC-U,06 Jan 2022,L2487418,S100484756
-39,Fork-tailed Palm-Swift,,Jamu Lodge,EC-U,06 Jan 2022,L2487418,S100484756
-40,Southern Lapwing,,Jamu Lodge,EC-U,06 Jan 2022,L2487418,S100484756
-41,Wattled Jacana,,Jamu Lodge,EC-U,06 Jan 2022,L2487418,S100484756
-42,Green-backed Trogon,,Jamu Lodge,EC-U,06 Jan 2022,L2487418,S100484756
-43,Green-and-rufous Kingfisher,,Jamu Lodge,EC-U,06 Jan 2022,L2487418,S100484756
-44,Ivory-billed Aracari,,Jamu Lodge,EC-U,06 Jan 2022,L2487418,S100484756
-45,Channel-billed Toucan,,Jamu Lodge,EC-U,06 Jan 2022,L2487418,S100484756
-46,Crimson-crested Woodpecker,,Jamu Lodge,EC-U,06 Jan 2022,L2487418,S100484756
-47,Bare-necked Fruitcrow,,Jamu Lodge,EC-U,06 Jan 2022,L2487418,S100484756
-48,Great Kiskadee,,Jamu Lodge,EC-U,06 Jan 2022,L2487418,S100484756
-49,Rufescent Tiger-Heron,,Jamu Lodge,EC-U,05 Jan 2022,L2487418,S100342474
-50,Boat-billed Heron,,Jamu Lodge,EC-U,05 Jan 2022,L2487418,S100342474
-51,Red-bellied Macaw,,Jamu Lodge,EC-U,05 Jan 2022,L2487418,S100342474
-52,Amazon Kingfisher,,Jamu Lodge,EC-U,05 Jan 2022,L2487418,S100342475
-53,Many-banded Aracari,,Jamu Lodge,EC-U,05 Jan 2022,L2487418,S100342475
-54,Scarlet Macaw,,Jamu Lodge,EC-U,05 Jan 2022,L2487418,S100342475
-55,Violaceous Jay,,Jamu Lodge,EC-U,05 Jan 2022,L2487418,S100342475
-56,Orange-backed Troupial,,Jamu Lodge,EC-U,05 Jan 2022,L2487418,S100342475
-57,Bare-faced Ibis,,Jamu Lodge,EC-U,04 Jan 2022,L2487418,S100342476
-58,Ringed Kingfisher,,Jamu Lodge,EC-U,04 Jan 2022,L2487418,S100342476
-59,Spix's Guan,,Jamu Lodge,EC-U,04 Jan 2022,L2487418,S100342477
-60,Black-tailed Trogon,,Jamu Lodge,EC-U,04 Jan 2022,L2487418,S100342477
-61,Black-fronted Nunbird,,Jamu Lodge,EC-U,04 Jan 2022,L2487418,S100342477
-62,Gilded Barbet,,Jamu Lodge,EC-U,04 Jan 2022,L2487418,S100342477
-63,Yellow-tufted Woodpecker,,Jamu Lodge,EC-U,04 Jan 2022,L2487418,S100342477
-64,Amazonian Streaked-Antwren,,Jamu Lodge,EC-U,04 Jan 2022,L2487418,S100342477
-65,Buff-throated Woodcreeper,,Jamu Lodge,EC-U,04 Jan 2022,L2487418,S100342477
-66,Lawrence's Thrush,,Jamu Lodge,EC-U,04 Jan 2022,L2487418,S100342477
-67,Epaulet Oriole,,Jamu Lodge,EC-U,04 Jan 2022,L2487418,S100342477
-68,Palm Tanager,,Jamu Lodge,EC-U,04 Jan 2022,L2487418,S100342477
-69,Greater Ani,,Jamu Lodge,EC-U,03 Jan 2022,L2487418,S100342478
-70,Hoatzin,,Jamu Lodge,EC-U,03 Jan 2022,L2487418,S100342478
-71,Anhinga,,Jamu Lodge,EC-U,03 Jan 2022,L2487418,S100342478
-72,Cocoi Heron,,Jamu Lodge,EC-U,03 Jan 2022,L2487418,S100342478
-73,Green Ibis,,Jamu Lodge,EC-U,03 Jan 2022,L2487418,S100342478
-74,Greater Yellow-headed Vulture,,Jamu Lodge,EC-U,03 Jan 2022,L2487418,S100342478
-75,White-throated Toucan,,Jamu Lodge,EC-U,03 Jan 2022,L2487418,S100342478
-76,Black Caracara,,Jamu Lodge,EC-U,03 Jan 2022,L2487418,S100342478
-77,Orange-winged Parrot,,Jamu Lodge,EC-U,03 Jan 2022,L2487418,S100342478
-78,Blue-and-yellow Macaw,,Jamu Lodge,EC-U,03 Jan 2022,L2487418,S100342478
-79,Russet-backed Oropendola,,Jamu Lodge,EC-U,03 Jan 2022,L2487418,S100342478
-80,Yellow-rumped Cacique,,Jamu Lodge,EC-U,03 Jan 2022,L2487418,S100342478
-81,Red-capped Cardinal,,Jamu Lodge,EC-U,03 Jan 2022,L2487418,S100342478
-82,Chilean Flamingo,,"Ruta del Spondylus, Monteverde, Santa Elena, EC (-2.062, -80.736)",EC-SE,30 Dec 2021,L17248968,S99737844
-83,Brown Pelican,,Machalilla NP--Los Frailes and vicinity,EC-M,28 Dec 2021,L2658895,S99737848
-84,Streaked Saltator,,Machalilla NP--Los Frailes and vicinity,EC-M,28 Dec 2021,L2658895,S99737848
-85,Rufous-headed Chachalaca,,"Ruta del Spondylus, La Rinconada, Santa Elena, EC (-1.791, -80.756)",EC-SE,28 Dec 2021,L17199729,S99737849
-86,West Peruvian Dove,,"Ayangue, EC (-1.982, -80.753)",EC-SE,27 Dec 2021,L17218994,S99737851
-87,Black-bellied Whistling-Duck,,"Olon, Santa Elena, EC (-1.791, -80.758)",EC-SE,27 Dec 2021,L17215435,S99737850
-88,Neotropic Cormorant,,"Olon, Santa Elena, EC (-1.791, -80.758)",EC-SE,27 Dec 2021,L17215435,S99737850
-89,Little Blue Heron,,"Olon, Santa Elena, EC (-1.791, -80.758)",EC-SE,27 Dec 2021,L17215435,S99737850
-90,Striated Heron,,"Olon, Santa Elena, EC (-1.791, -80.758)",EC-SE,27 Dec 2021,L17215435,S99737850
-91,Collared Antshrike,,"Olon, Santa Elena, EC (-1.791, -80.758)",EC-SE,27 Dec 2021,L17215435,S99737850
-92,Common Tody-Flycatcher,,"Olon, Santa Elena, EC (-1.791, -80.758)",EC-SE,27 Dec 2021,L17215435,S99737850
-93,Southern Beardless-Tyrannulet,,"Olon, Santa Elena, EC (-1.791, -80.758)",EC-SE,27 Dec 2021,L17215435,S99737850
-94,Fulvous-headed Pygmy-Tyrant,,"Olon, Santa Elena, EC (-1.791, -80.758)",EC-SE,27 Dec 2021,L17215435,S99737850
-95,Chivi Vireo,,"Olon, Santa Elena, EC (-1.791, -80.758)",EC-SE,27 Dec 2021,L17215435,S99737850
-96,Orange-bellied Euphonia,,"Olon, Santa Elena, EC (-1.791, -80.758)",EC-SE,27 Dec 2021,L17215435,S99737850
-97,Saffron Siskin,,"Olon, Santa Elena, EC (-1.791, -80.758)",EC-SE,27 Dec 2021,L17215435,S99737850
-98,Long-tailed Mockingbird,,"Calle A, Olón, Santa Elena, EC (-1.79, -80.756)",EC-SE,27 Dec 2021,L17211968,S99737852
-99,Saffron Finch,,"Calle A, Olón, Santa Elena, EC (-1.79, -80.756)",EC-SE,27 Dec 2021,L17211968,S99737852
-100,Pale-vented Pigeon,,Olon--pueblo y alrededores (town and surroundings),EC-SE,26 Dec 2021,L13211781,S99490862
-101,Common Gallinule,,Olon--pueblo y alrededores (town and surroundings),EC-SE,26 Dec 2021,L13211781,S99490862
-102,White Ibis,,Olon--pueblo y alrededores (town and surroundings),EC-SE,26 Dec 2021,L13211781,S99490862
-103,Green Kingfisher,,Olon--pueblo y alrededores (town and surroundings),EC-SE,26 Dec 2021,L13211781,S99490862
-104,Masked Water-Tyrant,,Olon--pueblo y alrededores (town and surroundings),EC-SE,26 Dec 2021,L13211781,S99490862
-105,Social Flycatcher,,Olon--pueblo y alrededores (town and surroundings),EC-SE,26 Dec 2021,L13211781,S99490862
-106,Tropical Kingbird,,Olon--pueblo y alrededores (town and surroundings),EC-SE,26 Dec 2021,L13211781,S99490862
-107,Rufous-browed Peppershrike,,Olon--pueblo y alrededores (town and surroundings),EC-SE,26 Dec 2021,L13211781,S99490862
-108,White-browed Gnatcatcher,,Olon--pueblo y alrededores (town and surroundings),EC-SE,26 Dec 2021,L13211781,S99490862
-109,Superciliated Wren,,Olon--pueblo y alrededores (town and surroundings),EC-SE,26 Dec 2021,L13211781,S99490862
-110,Shiny Cowbird,,Olon--pueblo y alrededores (town and surroundings),EC-SE,26 Dec 2021,L13211781,S99490862
-111,Yellow Warbler,,Olon--pueblo y alrededores (town and surroundings),EC-SE,26 Dec 2021,L13211781,S99490862
-112,Blue-gray Tanager,,Olon--pueblo y alrededores (town and surroundings),EC-SE,26 Dec 2021,L13211781,S99490862
-113,Buff-throated Saltator,,Olon--pueblo y alrededores (town and surroundings),EC-SE,26 Dec 2021,L13211781,S99490862
-114,Ecuadorian Ground Dove,,"Olon, Santa Elena, EC (-1.796, -80.76)",EC-SE,26 Dec 2021,L17202378,S99490863
-115,Black-necked Stilt,,"Olon, Santa Elena, EC (-1.796, -80.76)",EC-SE,26 Dec 2021,L17202378,S99490863
-116,Whimbrel,,"Olon, Santa Elena, EC (-1.796, -80.76)",EC-SE,26 Dec 2021,L17202378,S99490863
-117,Royal Tern,,"Olon, Santa Elena, EC (-1.796, -80.76)",EC-SE,26 Dec 2021,L17202378,S99490863
-118,Magnificent Frigatebird,,"Olon, Santa Elena, EC (-1.796, -80.76)",EC-SE,26 Dec 2021,L17202378,S99490863
-119,Great Egret,,"Olon, Santa Elena, EC (-1.796, -80.76)",EC-SE,26 Dec 2021,L17202378,S99490863
-120,Tricolored Heron,,"Olon, Santa Elena, EC (-1.796, -80.76)",EC-SE,26 Dec 2021,L17202378,S99490863
-121,Yellow-crowned Night-Heron,,"Olon, Santa Elena, EC (-1.796, -80.76)",EC-SE,26 Dec 2021,L17202378,S99490863
-122,Streak-headed Woodcreeper,,"Olon, Santa Elena, EC (-1.796, -80.76)",EC-SE,26 Dec 2021,L17202378,S99490863
-123,Pale-legged Hornero,,"Olon, Santa Elena, EC (-1.796, -80.76)",EC-SE,26 Dec 2021,L17202378,S99490863
-124,Fasciated Wren,,"Olon, Santa Elena, EC (-1.796, -80.76)",EC-SE,26 Dec 2021,L17202378,S99490863
-125,White-tipped Dove,,"Ruta del Spondylus, La Rinconada, Santa Elena, EC (-1.791, -80.756)",EC-SE,26 Dec 2021,L17199729,S99490864
-126,Amazilia Hummingbird,,"Ruta del Spondylus, La Rinconada, Santa Elena, EC (-1.791, -80.756)",EC-SE,26 Dec 2021,L17199729,S99490864
-127,Pacific Antwren,1,"Ruta del Spondylus, La Rinconada, Santa Elena, EC (-1.791, -80.756)",EC-SE,26 Dec 2021,L17199729,S99490864
-128,Scrub Blackbird,,"Ruta del Spondylus, La Rinconada, Santa Elena, EC (-1.791, -80.756)",EC-SE,26 Dec 2021,L17199729,S99490864
-129,Ecuadorian Hillstar,,PN El Cajas--Laguna Torreadora,EC-A,22 Dec 2021,L1890605,S99282610
-130,Blue-mantled Thornbill,,PN El Cajas--Laguna Torreadora,EC-A,22 Dec 2021,L1890605,S99282610
-131,Tawny Antpitta,,PN El Cajas--Laguna Torreadora,EC-A,22 Dec 2021,L1890605,S99282610
-132,Chestnut-winged Cinclodes,,PN El Cajas--Laguna Torreadora,EC-A,22 Dec 2021,L1890605,S99282610
-133,Stout-billed Cinclodes,,PN El Cajas--Laguna Torreadora,EC-A,22 Dec 2021,L1890605,S99282610
-134,Plain-capped Ground-Tyrant,,PN El Cajas--Laguna Torreadora,EC-A,22 Dec 2021,L1890605,S99282610
-135,Black-billed Shrike-Tyrant,,PN El Cajas--Laguna Torreadora,EC-A,22 Dec 2021,L1890605,S99282610
-136,Brown-backed Chat-Tyrant,,PN El Cajas--Laguna Torreadora,EC-A,22 Dec 2021,L1890605,S99282610
-137,Grass Wren,,PN El Cajas--Laguna Torreadora,EC-A,22 Dec 2021,L1890605,S99282610
-138,Tit-like Dacnis,,PN El Cajas--Laguna Torreadora,EC-A,22 Dec 2021,L1890605,S99282610
-139,Plumbeous Sierra Finch,,PN El Cajas--Laguna Torreadora,EC-A,22 Dec 2021,L1890605,S99282610
-140,Andean Teal,,"Laguna de Llaviuco, Parque Nacional Cajas",EC-A,21 Dec 2021,L16947311,S99282611
-141,Andean Duck,,"Laguna de Llaviuco, Parque Nacional Cajas",EC-A,21 Dec 2021,L16947311,S99282611
-142,Andean Guan,,"Laguna de Llaviuco, Parque Nacional Cajas",EC-A,21 Dec 2021,L16947311,S99282611
-143,Tyrian Metaltail,,"Laguna de Llaviuco, Parque Nacional Cajas",EC-A,21 Dec 2021,L16947311,S99282611
-144,Sapphire-vented Puffleg,,"Laguna de Llaviuco, Parque Nacional Cajas",EC-A,21 Dec 2021,L16947311,S99282611
-145,Slate-colored Coot,,"Laguna de Llaviuco, Parque Nacional Cajas",EC-A,21 Dec 2021,L16947311,S99282611
-146,Andean Gull,,"Laguna de Llaviuco, Parque Nacional Cajas",EC-A,21 Dec 2021,L16947311,S99282611
-147,Gray-breasted Mountain-Toucan,,"Laguna de Llaviuco, Parque Nacional Cajas",EC-A,21 Dec 2021,L16947311,S99282611
-148,Pearled Treerunner,,"Laguna de Llaviuco, Parque Nacional Cajas",EC-A,21 Dec 2021,L16947311,S99282611
-149,Azara's Spinetail,,"Laguna de Llaviuco, Parque Nacional Cajas",EC-A,21 Dec 2021,L16947311,S99282611
-150,Red-crested Cotinga,,"Laguna de Llaviuco, Parque Nacional Cajas",EC-A,21 Dec 2021,L16947311,S99282611
-151,White-banded Tyrannulet,,"Laguna de Llaviuco, Parque Nacional Cajas",EC-A,21 Dec 2021,L16947311,S99282611
-152,Rufous-breasted Chat-Tyrant,,"Laguna de Llaviuco, Parque Nacional Cajas",EC-A,21 Dec 2021,L16947311,S99282611
-153,Turquoise Jay,,"Laguna de Llaviuco, Parque Nacional Cajas",EC-A,21 Dec 2021,L16947311,S99282611
-154,Brown-bellied Swallow,,"Laguna de Llaviuco, Parque Nacional Cajas",EC-A,21 Dec 2021,L16947311,S99282611
-155,Black-crested Warbler,,"Laguna de Llaviuco, Parque Nacional Cajas",EC-A,21 Dec 2021,L16947311,S99282611
-156,Spectacled Redstart,,"Laguna de Llaviuco, Parque Nacional Cajas",EC-A,21 Dec 2021,L16947311,S99282611
-157,Superciliaried Hemispingus,,"Laguna de Llaviuco, Parque Nacional Cajas",EC-A,21 Dec 2021,L16947311,S99282611
-158,Black Flowerpiercer,,"Laguna de Llaviuco, Parque Nacional Cajas",EC-A,21 Dec 2021,L16947311,S99282611
-159,Masked Flowerpiercer,,"Laguna de Llaviuco, Parque Nacional Cajas",EC-A,21 Dec 2021,L16947311,S99282611
-160,Plain-colored Seedeater,,"Laguna de Llaviuco, Parque Nacional Cajas",EC-A,21 Dec 2021,L16947311,S99282611
-161,Band-tailed Pigeon,,"183 Francisco Cuesta, Cuenca, Azuay, EC (-2.915, -79.008)",EC-A,20 Dec 2021,L17149775,S99209543
-162,Eared Dove,,"183 Francisco Cuesta, Cuenca, Azuay, EC (-2.915, -79.008)",EC-A,20 Dec 2021,L17149775,S99209543
-163,Sparkling Violetear,,"183 Francisco Cuesta, Cuenca, Azuay, EC (-2.915, -79.008)",EC-A,20 Dec 2021,L17149775,S99209543
-164,Great Thrush,,"183 Francisco Cuesta, Cuenca, Azuay, EC (-2.915, -79.008)",EC-A,20 Dec 2021,L17149775,S99209543
-165,Chiguanco Thrush,,"183 Francisco Cuesta, Cuenca, Azuay, EC (-2.915, -79.008)",EC-A,20 Dec 2021,L17149775,S99209543
-166,Hooded Siskin,,"183 Francisco Cuesta, Cuenca, Azuay, EC (-2.915, -79.008)",EC-A,20 Dec 2021,L17149775,S99209543
-167,Rufous-collared Sparrow,,"183 Francisco Cuesta, Cuenca, Azuay, EC (-2.915, -79.008)",EC-A,20 Dec 2021,L17149775,S99209543
-168,Golden Grosbeak,,"183 Francisco Cuesta, Cuenca, Azuay, EC (-2.915, -79.008)",EC-A,20 Dec 2021,L17149775,S99209543
-169,Townsend's Solitaire,,"2350 Water Canyon Road, Eagar, Arizona, US (34.066, -109.293)",US-AZ,10 Oct 2021,L16612761,S95999151
-170,Common Merganser,3,"Big Lake Road, Greer, Arizona, US (33.875, -109.414)",US-AZ,08 Oct 2021,L16631678,S96065754
-171,American Crow,,"Big Lake Road, Greer, Arizona, US (33.875, -109.414)",US-AZ,08 Oct 2021,L16631678,S96065754
-172,Northern Pygmy-Owl,,Long Park,US-AZ,04 Sep 2021,L11853083,S95999158
-173,Wild Turkey,,Road between Onion Saddle and Barfoot Jct,US-AZ,03 Sep 2021,L1035433,S94284781
-174,Yellow-billed Cuckoo,,333 harshaw creek rd.,US-AZ,15 Aug 2021,L14286380,S93488009
-175,Gray Hawk,,333 harshaw creek rd.,US-AZ,15 Aug 2021,L14286380,S93488009
-176,Blue Grosbeak,,333 harshaw creek rd.,US-AZ,15 Aug 2021,L14286380,S93488009
-177,Lesser Nighthawk,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,12 Jul 2021,L12260655,S93488010
-178,Black-chinned Hummingbird,,Harshaw Creek Road,US-AZ,10 Jul 2021,L768735,S93488013
-179,Elf Owl,,Harshaw Creek Road,US-AZ,10 Jul 2021,L768735,S93488013
-180,Cassin's Kingbird,,Harshaw Creek Road,US-AZ,10 Jul 2021,L768735,S93488013
-181,Thick-billed Kingbird,,Harshaw Creek Road,US-AZ,10 Jul 2021,L768735,S93488013
-182,Scott's Oriole,,Harshaw Creek Road,US-AZ,10 Jul 2021,L768735,S93488013
-183,Hermit Thrush,,"Summit Road, Mount Lemmon, Arizona, US (32.441, -110.789)",US-AZ,09 Jul 2021,L14928744,S93488014
-184,Purple Martin,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,03 Jul 2021,L12260655,S93488015
-185,Bronzed Cowbird,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,03 Jul 2021,L12260655,S93488015
-186,Rivoli's Hummingbird,,"Summit Road, Mount Lemmon, Arizona, US (32.441, -110.789)",US-AZ,14 May 2021,L14928744,S88136400
-187,Zone-tailed Hawk,,"Summit Road, Mount Lemmon, Arizona, US (32.441, -110.789)",US-AZ,14 May 2021,L14928744,S88136400
-188,Cordilleran Flycatcher,,"Summit Road, Mount Lemmon, Arizona, US (32.441, -110.789)",US-AZ,14 May 2021,L14928744,S88136400
-189,Red-faced Warbler,,"Summit Road, Mount Lemmon, Arizona, US (32.441, -110.789)",US-AZ,14 May 2021,L14928744,S88136400
-190,Rufous-crowned Sparrow,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,08 May 2021,L12260655,S88136402
-191,Black-headed Grosbeak,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,08 May 2021,L12260655,S88136402
-192,Ladder-backed Woodpecker,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,01 May 2021,L12260655,S86815839
-193,Ash-throated Flycatcher,,"Unnamed Road, Roosevelt, Arizona, US (33.673, -111.086)",US-AZ,17 Apr 2021,L12541210,S96065789
-194,Lesser Scaup,,"Roosevelt, Arizona, US (33.693, -111.092)",US-AZ,17 Apr 2021,L14496051,S88136406
-195,Clark's Grebe,,"Roosevelt, Arizona, US (33.671, -111.079)",US-AZ,17 Apr 2021,L12541175,S86123458
-196,Costa's Hummingbird,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,04 Apr 2021,L14296184,S84788706
-197,Bell's Vireo,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,04 Apr 2021,L14296184,S84788706
-198,Lucy's Warbler,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,04 Apr 2021,L14296184,S84788706
-199,Broad-billed Hummingbird,,"477 Pennsylvania Avenue, Patagonia, Arizona, US (31.539, -110.76)",US-AZ,19 Mar 2021,L14295718,S84765870
-200,Violet-crowned Hummingbird,,"477 Pennsylvania Avenue, Patagonia, Arizona, US (31.539, -110.76)",US-AZ,19 Mar 2021,L14295718,S84765870
-201,Black Vulture,2,"West Tucson-Ajo Highway, Sells, Arizona, US (31.985, -111.722)",US-AZ,21 Feb 2021,L13800640,S82129544
-202,Harris's Hawk,4,"West Tucson-Ajo Highway, Sells, Arizona, US (31.985, -111.722)",US-AZ,21 Feb 2021,L13800640,S82129544
-203,Eurasian Collared-Dove,,"Unnamed Road, Ajo, Arizona, US (32.239, -112.745)",US-AZ,20 Feb 2021,L13800629,S82129448
-204,Crested Caracara,,Organ Pipe Cactus NM--Quitobaquito Springs,US-AZ,19 Feb 2021,L376621,S82129355
-205,Loggerhead Shrike,,Organ Pipe Cactus NM--Quitobaquito Springs,US-AZ,19 Feb 2021,L376621,S82129355
-206,Crissal Thrasher,,Organ Pipe Cactus NM--Quitobaquito Springs,US-AZ,19 Feb 2021,L376621,S82129355
-207,White-throated Swift,,Organ Pipe Cactus NM--Main Campground & Sewage Ponds,US-AZ,18 Feb 2021,L3959912,S82129634
-208,Green-winged Teal,,Whitewater Draw WA,US-AZ,10 Feb 2021,L168765,S84766159
-209,Sandhill Crane,,Whitewater Draw WA,US-AZ,10 Feb 2021,L168765,S84766159
-210,Killdeer,,Whitewater Draw WA,US-AZ,10 Feb 2021,L168765,S84766159
-211,Northern Harrier,,Whitewater Draw WA,US-AZ,10 Feb 2021,L168765,S84766159
-212,Eared Grebe,,"Roosevelt, Arizona, US (33.671, -111.079)",US-AZ,17 Oct 2020,L12541175,S75070487
-213,Greater Roadrunner,,"Roosevelt, Arizona, US (33.671, -111.079)",US-AZ,17 Oct 2020,L12541175,S75070487
-214,Snowy Egret,,"Roosevelt, Arizona, US (33.671, -111.079)",US-AZ,17 Oct 2020,L12541175,S75070487
-215,Bald Eagle,,"Roosevelt, Arizona, US (33.671, -111.079)",US-AZ,17 Oct 2020,L12541175,S75070487
-216,Rock Wren,,"Roosevelt, Arizona, US (33.671, -111.079)",US-AZ,17 Oct 2020,L12541175,S75070487
-217,Western Grebe,,"Unnamed Road, Roosevelt, Arizona, US (33.673, -111.086)",US-AZ,17 Oct 2020,L12541210,S75070732
-218,Great Horned Owl,1,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,14 Oct 2020,L12260655,S74839855
-219,American Avocet,,Mt. Graham--Riggs Lake,US-AZ,22 Sep 2020,L456902,S73945019
-220,Say's Phoebe,,Mt. Graham--Riggs Lake,US-AZ,22 Sep 2020,L456902,S73945019
-221,Plumbeous Vireo,,Mt. Graham--Riggs Lake,US-AZ,22 Sep 2020,L456902,S73945019
-222,Red-breasted Nuthatch,,Mt. Graham--Riggs Lake,US-AZ,22 Sep 2020,L456902,S73945019
-223,Brown Creeper,,Mt. Graham--Riggs Lake,US-AZ,22 Sep 2020,L456902,S73945019
-224,Yellow-eyed Junco,,Mt. Graham--Riggs Lake,US-AZ,22 Sep 2020,L456902,S73945019
-225,Hermit Warbler,,Mt. Graham--Riggs Lake,US-AZ,22 Sep 2020,L456902,S73945019
-226,Pine Siskin,,"New Mexico 15, Silver City, New Mexico, US (33.229, -108.265)",US-NM,21 Sep 2020,L12348469,S73944982
-227,Rufous Hummingbird,,"3790-3804 New Mexico 15, Silver City, New Mexico, US (33.204, -108.214)",US-NM,20 Sep 2020,L12348461,S73944944
-228,Belted Kingfisher,,"3790-3804 New Mexico 15, Silver City, New Mexico, US (33.204, -108.214)",US-NM,20 Sep 2020,L12348461,S73944944
-229,Northern Shoveler,,"Sep 20, 2020 14:59
+1,Grace's Warbler,,"Forest Service Road 248, Fredonia, Arizona, US (36.739, -112.214)",US-AZ,05 Aug 2022,L20437964,S116404785
+2,White-faced Ibis,,Sage Creek Junction,US-UT,04 Aug 2022,L1167046,S116373968
+3,American Kestrel,,"Cokeville-Utah Line Road, Cokeville, Wyoming, US (41.967, -110.995)",US-WY,04 Aug 2022,L20430723,S116373967
+4,Blue-winged Teal,,Yellowstone NP--Hayden Valley--Trout Creek area,US-WY,03 Aug 2022,L3690518,S116373966
+5,Brewer's Sparrow,,Yellowstone NP--Hayden Valley--Trout Creek area,US-WY,03 Aug 2022,L3690518,S116373966
+6,Savannah Sparrow,,Yellowstone NP--Hayden Valley--Trout Creek area,US-WY,03 Aug 2022,L3690518,S116373966
+7,Mountain Bluebird,,Yellowstone NP--Old Faithful area,US-WY,02 Aug 2022,L743130,S116373965
+8,Red-necked Grebe,,Henrys Lake--North Parking Area,US-ID,01 Aug 2022,L2264460,S116172847
+9,Cliff Swallow,,"U.s. Forest Service 209, Montana, US (44.901, -111.592)",US-MT,01 Aug 2022,L20387025,S116166096
+10,Black-billed Magpie,,"Montana 359, Cardwell, Montana, US (45.802, -111.925)",US-MT,01 Aug 2022,L20385583,S116166097
+11,Clark's Nutcracker,,"Wood Chute Creek Road, Boulder, Montana, US (46.348, -112.178)",US-MT,30 Jul 2022,L20388580,S116172903
+12,Vesper Sparrow,,"Wood Chute Creek Road, Boulder, Montana, US (46.348, -112.178)",US-MT,30 Jul 2022,L20388580,S116172903
+13,Evening Grosbeak,,Auto selected,US-MT,29 Jul 2022,L20385482,S116166098
+14,American Dipper,,"Little North Fork Road, Cataldo, Idaho, US (47.63, -116.305)",US-ID,27 Jul 2022,L20328961,S115911647
+15,Trumpeter Swan,,Turnbull NWR,US-WA,27 Jul 2022,L109546,S115911651
+16,Black Tern,,Turnbull NWR,US-WA,27 Jul 2022,L109546,S115911651
+17,Eastern Kingbird,,Turnbull NWR,US-WA,27 Jul 2022,L109546,S115911651
+18,Yellow-headed Blackbird,,Turnbull NWR,US-WA,27 Jul 2022,L109546,S115911651
+19,European Starling,,"Unnamed Road, Issaquah, Washington, US (47.56, -122.064)",US-WA,27 Jul 2022,L20388588,S116172933
+20,Downy Woodpecker,,Lincoln Park (Seattle),US-WA,26 Jul 2022,L318691,S115807239
+21,Black-capped Chickadee,,Lincoln Park (Seattle),US-WA,26 Jul 2022,L318691,S115807239
+22,Glaucous-winged Gull,,"Seattle, Washington, US (47.518, -122.445)",US-WA,25 Jul 2022,L20295490,S115761764
+23,Common Loon,,Bodega Bay--north shore (includes rail ponds),US-CA,25 Jul 2022,L1107853,S115865390
+24,Harlequin Duck,,Cannon Beach,US-OR,24 Jul 2022,L638805,S115734610
+25,Tufted Puffin,,Cannon Beach,US-OR,24 Jul 2022,L638805,S115734610
+26,Varied Thrush,,"National Forest Development Road 662, Florence, Oregon, US (44.149, -123.951)",US-OR,24 Jul 2022,L20318736,S115865391
+27,Semipalmated Plover,,Point St. George,US-CA,23 Jul 2022,L444689,S115645234
+28,Black Turnstone,,Point St. George,US-CA,23 Jul 2022,L444689,S115645234
+29,Pacific-slope Flycatcher,,Redwood NP--Redwood Creek Trail,US-CA,23 Jul 2022,L440108,S115645233
+30,Swainson's Thrush,,Redwood NP--Redwood Creek Trail,US-CA,23 Jul 2022,L440108,S115645233
+31,Purple Finch,,Redwood NP--Redwood Creek Trail,US-CA,23 Jul 2022,L440108,S115645233
+32,Long-billed Curlew,,Arcata Marsh--Arcata Bay from I St.,US-CA,22 Jul 2022,L3551281,S115581497
+33,Black-crowned Night-Heron,,Arcata Marsh--Arcata Bay from I St.,US-CA,22 Jul 2022,L3551281,S115581497
+34,Orange-crowned Warbler,,"69800 U.S. 101, Leggett, California, US (39.875, -123.733)",US-CA,22 Jul 2022,L20251380,S115567436
+35,Allen's Hummingbird,,Willow Creek Campground,US-CA,21 Jul 2022,L2988734,S115552229
+36,Wrentit,,Willow Creek Campground,US-CA,21 Jul 2022,L2988734,S115552229
+37,Chestnut-backed Chickadee,,Willow Creek Campground,US-CA,20 Jul 2022,L2988734,S115552228
+38,California Quail,,"16484 Sir Francis Drake Boulevard, Inverness, California, US (38.094, -122.914)",US-CA,20 Jul 2022,L20247262,S115552227
+39,California Scrub-Jay,,"16484 Sir Francis Drake Boulevard, Inverness, California, US (38.094, -122.914)",US-CA,20 Jul 2022,L20247262,S115552227
+40,Surf Scoter,,Pt. Reyes--Chimney Rock,US-CA,20 Jul 2022,L491638,S115549615
+41,Pigeon Guillemot,,Pt. Reyes--Chimney Rock,US-CA,20 Jul 2022,L491638,S115549615
+42,Western Gull,,Pt. Reyes--Chimney Rock,US-CA,20 Jul 2022,L491638,S115549615
+43,Brandt's Cormorant,,Pt. Reyes--Chimney Rock,US-CA,20 Jul 2022,L491638,S115549615
+44,Pelagic Cormorant,,Pt. Reyes--Chimney Rock,US-CA,20 Jul 2022,L491638,S115549615
+45,Black Oystercatcher,,Pt. Reyes--Fish Docks,US-CA,20 Jul 2022,L453386,S115549667
+46,Common Murre,,Pt. Reyes--Fish Docks,US-CA,20 Jul 2022,L453386,S115549667
+47,American Goldfinch,,Pt. Reyes--Fish Docks,US-CA,20 Jul 2022,L453386,S115549667
+48,Brewer's Blackbird,,Olema Campground,US-CA,19 Jul 2022,L2514800,S115410090
+49,American White Pelican,,Hwy 37 pullout,US-CA,19 Jul 2022,L3782882,S115410129
+50,Dusky Flycatcher,,Sequoia NF--Montecito Sequoia Lodge,US-CA,19 Jul 2022,L4267289,S115390073
+51,Mountain Quail,,Sequoia NF--Montecito Sequoia Lodge,US-CA,18 Jul 2022,L4267289,S115390072
+52,Pileated Woodpecker,,Sequoia NF--Montecito Sequoia Lodge,US-CA,18 Jul 2022,L4267289,S115390072
+53,Golden-crowned Kinglet,,Sequoia NF--Montecito Sequoia Lodge,US-CA,18 Jul 2022,L4267289,S115390072
+54,Fox Sparrow,,Sequoia NF--Montecito Sequoia Lodge,US-CA,18 Jul 2022,L4267289,S115390072
+55,White-headed Woodpecker,,Sequoia NP--General Sherman Tree Trail,US-CA,18 Jul 2022,L1479497,S115390071
+56,Egyptian Goose,,Surfer's Knoll,US-CA,17 Jul 2022,L3268510,S115299540
+57,Marbled Godwit,,Surfer's Knoll,US-CA,17 Jul 2022,L3268510,S115299540
+58,Sanderling,,Surfer's Knoll,US-CA,17 Jul 2022,L3268510,S115299540
+59,Willet,,Surfer's Knoll,US-CA,17 Jul 2022,L3268510,S115299540
+60,Heermann's Gull,,Surfer's Knoll,US-CA,17 Jul 2022,L3268510,S115299540
+61,Ring-billed Gull,,Surfer's Knoll,US-CA,17 Jul 2022,L3268510,S115299540
+62,Tree Swallow,,Surfer's Knoll,US-CA,17 Jul 2022,L3268510,S115299540
+63,Barn Swallow,,Surfer's Knoll,US-CA,17 Jul 2022,L3268510,S115299540
+64,Olive-sided Flycatcher,,Santa Ana River--South Fork vicinity,US-CA,16 Jul 2022,L2490956,S115299543
+65,Warbling Vireo,,"Summit Road, Mount Lemmon, Arizona, US (32.441, -110.789)",US-AZ,17 Jun 2022,L14928744,S113134364
+66,Blue-footed Booby,,"MX (27.933, -111.014)",MX-SON,28 May 2022,L19331943,S111548440
+67,Brown Booby,,"MX (27.933, -111.014)",MX-SON,28 May 2022,L19331943,S111548440
+68,American Oystercatcher,,Estero El Soldado,MX-SON,28 May 2022,L389236,S111491867
+69,Caspian Tern,,Estero El Soldado,MX-SON,28 May 2022,L389236,S111491867
+70,Reddish Egret,,Estero El Soldado,MX-SON,28 May 2022,L389236,S111491867
+71,Roseate Spoonbill,,Estero El Soldado,MX-SON,28 May 2022,L389236,S111491867
+72,Peregrine Falcon,,Estero El Soldado,MX-SON,28 May 2022,L389236,S111491867
+73,Groove-billed Ani,,Bahia San Carlos,MX-SON,27 May 2022,L2650790,S111400462
+74,Yellow-footed Gull,,Bahia San Carlos,MX-SON,27 May 2022,L2650790,S111400462
+75,Northern Rough-winged Swallow,,Bahia San Carlos,MX-SON,27 May 2022,L2650790,S111400462
+76,Lewis's Woodpecker,,Paradise--George Walker House,US-AZ,22 May 2022,L320213,S111218983
+77,Violet-green Swallow,,Cave Creek Canyon--Southwestern Research Station,US-AZ,21 May 2022,L129102,S111218985
+78,Common Ground Dove,,Patagonia Lake SP--Birding Trail,US-AZ,14 May 2022,L2064166,S110168252
+79,Song Sparrow,,Patagonia Lake SP--Birding Trail,US-AZ,14 May 2022,L2064166,S110168252
+80,Abert's Towhee,,Patagonia Lake SP--Birding Trail,US-AZ,14 May 2022,L2064166,S110168252
+81,Red-winged Blackbird,,Patagonia Lake SP--Birding Trail,US-AZ,14 May 2022,L2064166,S110168252
+82,Northern Waterthrush,1,Patagonia Lake SP--Birding Trail,US-AZ,14 May 2022,L2064166,S110168252
+83,Mexican Whip-poor-will,,Cave Creek Canyon--South Fork,US-AZ,07 May 2022,L129099,S109384030
+84,Whiskered Screech-Owl,,Cave Creek Canyon--South Fork,US-AZ,07 May 2022,L129099,S109384030
+85,Brown-crested Flycatcher,,Cave Creek Canyon--South Fork,US-AZ,07 May 2022,L129099,S109384030
+86,Dusky-capped Flycatcher,,Cave Creek Canyon--Herb Martyr CG,US-AZ,07 May 2022,L128985,S109384031
+87,Bushtit,,Cave Creek Canyon--Southwestern Research Station,US-AZ,07 May 2022,L129102,S109384032
+88,Inca Dove,,Paradise--George Walker House,US-AZ,24 Apr 2022,L320213,S108007486
+89,Arizona Woodpecker,,Paradise--George Walker House,US-AZ,24 Apr 2022,L320213,S108007486
+90,Brown-headed Cowbird,,Paradise--George Walker House,US-AZ,24 Apr 2022,L320213,S108007486
+91,Golden Eagle,,"2405 South Hatari Lane, San Simon, Arizona, US (31.912, -109.137)",US-AZ,23 Apr 2022,L18440803,S108007487
+92,Bullock's Oriole,,"2405 South Hatari Lane, San Simon, Arizona, US (31.912, -109.137)",US-AZ,23 Apr 2022,L18440803,S108007487
+93,Lazuli Bunting,,"2405 South Hatari Lane, San Simon, Arizona, US (31.912, -109.137)",US-AZ,23 Apr 2022,L18440803,S108007487
+94,Lucifer Hummingbird,2,Portal--Jasper/Moisan feeders (opened 2015),US-AZ,09 Apr 2022,L3642537,S106878250
+95,Chipping Sparrow,,Portal,US-AZ,09 Apr 2022,L129060,S106758974
+96,Blue-throated Mountain-gem,,Cave Creek Canyon--Southwestern Research Station,US-AZ,09 Apr 2022,L129102,S106758975
+97,Painted Redstart,,Cave Creek Canyon--Southwestern Research Station,US-AZ,09 Apr 2022,L129102,S106758975
+98,Hooded Oriole,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,03 Apr 2022,L12260655,S106199731
+99,Canada Goose,,"565 Pinewood Boulevard, Munds Park, Arizona, US (34.94, -111.639)",US-AZ,12 Mar 2022,L18096291,S104714147
+100,Juniper Titmouse,,Sugar Loaf Trailhead,US-AZ,12 Mar 2022,L13323766,S104701360
+101,Snow Goose,,Whitewater Draw WA,US-AZ,20 Feb 2022,L168765,S103257990
+102,Northern Pintail,,Whitewater Draw WA,US-AZ,20 Feb 2022,L168765,S103257990
+103,Western Screech-Owl,,Cochise Stronghold,US-AZ,19 Feb 2022,L306139,S103257991
+104,Rainbow Starfrontlet,,Camino Al Cielo,EC-A,12 Jan 2022,L8552768,S100629018
+105,Masked Trogon,,Camino Al Cielo,EC-A,12 Jan 2022,L8552768,S100629018
+106,Blackish Tapaculo,,Camino Al Cielo,EC-A,12 Jan 2022,L8552768,S100629018
+107,Scarlet-bellied Mountain Tanager,,Camino Al Cielo,EC-A,12 Jan 2022,L8552768,S100629018
+108,Purple-throated Sunangel,,Auto selected,EC-A,12 Jan 2022,L17408650,S100627346
+109,Plushcap,,Auto selected,EC-A,12 Jan 2022,L17408650,S100627346
+110,Common Potoo,,Jamu Lodge,EC-U,07 Jan 2022,L2487418,S100484815
+111,Limpkin,,Jamu Lodge,EC-U,07 Jan 2022,L2487418,S100484815
+112,Harpy Eagle,,Jamu Lodge,EC-U,07 Jan 2022,L2487418,S100484815
+113,Black-headed Parrot,,Jamu Lodge,EC-U,07 Jan 2022,L2487418,S100484815
+114,Common Pauraque,,Jamu Lodge,EC-U,06 Jan 2022,L2487418,S100484756
+115,Short-tailed Swift,,Jamu Lodge,EC-U,06 Jan 2022,L2487418,S100484756
+116,Fork-tailed Palm-Swift,,Jamu Lodge,EC-U,06 Jan 2022,L2487418,S100484756
+117,Wattled Jacana,,Jamu Lodge,EC-U,06 Jan 2022,L2487418,S100484756
+118,Green-and-rufous Kingfisher,,Jamu Lodge,EC-U,06 Jan 2022,L2487418,S100484756
+119,Ivory-billed Aracari,,Jamu Lodge,EC-U,06 Jan 2022,L2487418,S100484756
+120,Channel-billed Toucan,,Jamu Lodge,EC-U,06 Jan 2022,L2487418,S100484756
+121,Crimson-crested Woodpecker,,Jamu Lodge,EC-U,06 Jan 2022,L2487418,S100484756
+122,Bare-necked Fruitcrow,,Jamu Lodge,EC-U,06 Jan 2022,L2487418,S100484756
+123,Great Kiskadee,,Jamu Lodge,EC-U,06 Jan 2022,L2487418,S100484756
+124,Rufescent Tiger-Heron,,Jamu Lodge,EC-U,05 Jan 2022,L2487418,S100342474
+125,Boat-billed Heron,,Jamu Lodge,EC-U,05 Jan 2022,L2487418,S100342474
+126,Red-bellied Macaw,,Jamu Lodge,EC-U,05 Jan 2022,L2487418,S100342474
+127,Amazon Kingfisher,,Jamu Lodge,EC-U,05 Jan 2022,L2487418,S100342475
+128,Many-banded Aracari,,Jamu Lodge,EC-U,05 Jan 2022,L2487418,S100342475
+129,Scarlet Macaw,,Jamu Lodge,EC-U,05 Jan 2022,L2487418,S100342475
+130,Violaceous Jay,,Jamu Lodge,EC-U,05 Jan 2022,L2487418,S100342475
+131,Orange-backed Troupial,,Jamu Lodge,EC-U,05 Jan 2022,L2487418,S100342475
+132,Southern Lapwing,,"Palma Roja, Sucumbíos, EC (-0.023, -76.175)",EC-U,04 Jan 2022,L20215006,S115410174
+133,Green-backed Trogon,,"Palma Roja, Sucumbíos, EC (-0.023, -76.175)",EC-U,04 Jan 2022,L20215006,S115410174
+134,Bare-faced Ibis,,Jamu Lodge,EC-U,04 Jan 2022,L2487418,S100342476
+135,Ringed Kingfisher,,Jamu Lodge,EC-U,04 Jan 2022,L2487418,S100342476
+136,Spix's Guan,,Jamu Lodge,EC-U,04 Jan 2022,L2487418,S100342477
+137,Black-tailed Trogon,,Jamu Lodge,EC-U,04 Jan 2022,L2487418,S100342477
+138,Black-fronted Nunbird,,Jamu Lodge,EC-U,04 Jan 2022,L2487418,S100342477
+139,Gilded Barbet,,Jamu Lodge,EC-U,04 Jan 2022,L2487418,S100342477
+140,Yellow-tufted Woodpecker,,Jamu Lodge,EC-U,04 Jan 2022,L2487418,S100342477
+141,Amazonian Streaked-Antwren,,Jamu Lodge,EC-U,04 Jan 2022,L2487418,S100342477
+142,Buff-throated Woodcreeper,,Jamu Lodge,EC-U,04 Jan 2022,L2487418,S100342477
+143,Lawrence's Thrush,,Jamu Lodge,EC-U,04 Jan 2022,L2487418,S100342477
+144,Epaulet Oriole,,Jamu Lodge,EC-U,04 Jan 2022,L2487418,S100342477
+145,Palm Tanager,,Jamu Lodge,EC-U,04 Jan 2022,L2487418,S100342477
+146,Greater Ani,,Jamu Lodge,EC-U,03 Jan 2022,L2487418,S100342478
+147,Hoatzin,,Jamu Lodge,EC-U,03 Jan 2022,L2487418,S100342478
+148,Anhinga,,Jamu Lodge,EC-U,03 Jan 2022,L2487418,S100342478
+149,Cocoi Heron,,Jamu Lodge,EC-U,03 Jan 2022,L2487418,S100342478
+150,Green Ibis,,Jamu Lodge,EC-U,03 Jan 2022,L2487418,S100342478
+151,Greater Yellow-headed Vulture,,Jamu Lodge,EC-U,03 Jan 2022,L2487418,S100342478
+152,White-throated Toucan,,Jamu Lodge,EC-U,03 Jan 2022,L2487418,S100342478
+153,Black Caracara,,Jamu Lodge,EC-U,03 Jan 2022,L2487418,S100342478
+154,Orange-winged Parrot,,Jamu Lodge,EC-U,03 Jan 2022,L2487418,S100342478
+155,Blue-and-yellow Macaw,,Jamu Lodge,EC-U,03 Jan 2022,L2487418,S100342478
+156,Russet-backed Oropendola,,Jamu Lodge,EC-U,03 Jan 2022,L2487418,S100342478
+157,Yellow-rumped Cacique,,Jamu Lodge,EC-U,03 Jan 2022,L2487418,S100342478
+158,Red-capped Cardinal,,Jamu Lodge,EC-U,03 Jan 2022,L2487418,S100342478
+159,Chilean Flamingo,,"Ruta del Spondylus, Monteverde, Santa Elena, EC (-2.062, -80.736)",EC-SE,30 Dec 2021,L17248968,S99737844
+160,Brown Pelican,,Machalilla NP--Los Frailes and vicinity,EC-M,28 Dec 2021,L2658895,S99737848
+161,Streaked Saltator,,Machalilla NP--Los Frailes and vicinity,EC-M,28 Dec 2021,L2658895,S99737848
+162,Rufous-headed Chachalaca,,"Ruta del Spondylus, La Rinconada, Santa Elena, EC (-1.791, -80.756)",EC-SE,28 Dec 2021,L17199729,S99737849
+163,West Peruvian Dove,,"Ayangue, EC (-1.982, -80.753)",EC-SE,27 Dec 2021,L17218994,S99737851
+164,Black-bellied Whistling-Duck,,"Olon, Santa Elena, EC (-1.791, -80.758)",EC-SE,27 Dec 2021,L17215435,S99737850
+165,Neotropic Cormorant,,"Olon, Santa Elena, EC (-1.791, -80.758)",EC-SE,27 Dec 2021,L17215435,S99737850
+166,Little Blue Heron,,"Olon, Santa Elena, EC (-1.791, -80.758)",EC-SE,27 Dec 2021,L17215435,S99737850
+167,Striated Heron,,"Olon, Santa Elena, EC (-1.791, -80.758)",EC-SE,27 Dec 2021,L17215435,S99737850
+168,Collared Antshrike,,"Olon, Santa Elena, EC (-1.791, -80.758)",EC-SE,27 Dec 2021,L17215435,S99737850
+169,Common Tody-Flycatcher,,"Olon, Santa Elena, EC (-1.791, -80.758)",EC-SE,27 Dec 2021,L17215435,S99737850
+170,Southern Beardless-Tyrannulet,,"Olon, Santa Elena, EC (-1.791, -80.758)",EC-SE,27 Dec 2021,L17215435,S99737850
+171,Fulvous-headed Pygmy-Tyrant,,"Olon, Santa Elena, EC (-1.791, -80.758)",EC-SE,27 Dec 2021,L17215435,S99737850
+172,Chivi Vireo,,"Olon, Santa Elena, EC (-1.791, -80.758)",EC-SE,27 Dec 2021,L17215435,S99737850
+173,Orange-bellied Euphonia,,"Olon, Santa Elena, EC (-1.791, -80.758)",EC-SE,27 Dec 2021,L17215435,S99737850
+174,Saffron Siskin,,"Olon, Santa Elena, EC (-1.791, -80.758)",EC-SE,27 Dec 2021,L17215435,S99737850
+175,Long-tailed Mockingbird,,"Calle A, Olón, Santa Elena, EC (-1.79, -80.756)",EC-SE,27 Dec 2021,L17211968,S99737852
+176,Saffron Finch,,"Calle A, Olón, Santa Elena, EC (-1.79, -80.756)",EC-SE,27 Dec 2021,L17211968,S99737852
+177,Pale-vented Pigeon,,Olon--pueblo y alrededores (town and surroundings),EC-SE,26 Dec 2021,L13211781,S99490862
+178,Common Gallinule,,Olon--pueblo y alrededores (town and surroundings),EC-SE,26 Dec 2021,L13211781,S99490862
+179,White Ibis,,Olon--pueblo y alrededores (town and surroundings),EC-SE,26 Dec 2021,L13211781,S99490862
+180,Green Kingfisher,,Olon--pueblo y alrededores (town and surroundings),EC-SE,26 Dec 2021,L13211781,S99490862
+181,Masked Water-Tyrant,,Olon--pueblo y alrededores (town and surroundings),EC-SE,26 Dec 2021,L13211781,S99490862
+182,Social Flycatcher,,Olon--pueblo y alrededores (town and surroundings),EC-SE,26 Dec 2021,L13211781,S99490862
+183,Tropical Kingbird,,Olon--pueblo y alrededores (town and surroundings),EC-SE,26 Dec 2021,L13211781,S99490862
+184,Rufous-browed Peppershrike,,Olon--pueblo y alrededores (town and surroundings),EC-SE,26 Dec 2021,L13211781,S99490862
+185,White-browed Gnatcatcher,,Olon--pueblo y alrededores (town and surroundings),EC-SE,26 Dec 2021,L13211781,S99490862
+186,Superciliated Wren,,Olon--pueblo y alrededores (town and surroundings),EC-SE,26 Dec 2021,L13211781,S99490862
+187,Shiny Cowbird,,Olon--pueblo y alrededores (town and surroundings),EC-SE,26 Dec 2021,L13211781,S99490862
+188,Yellow Warbler,,Olon--pueblo y alrededores (town and surroundings),EC-SE,26 Dec 2021,L13211781,S99490862
+189,Blue-gray Tanager,,Olon--pueblo y alrededores (town and surroundings),EC-SE,26 Dec 2021,L13211781,S99490862
+190,Buff-throated Saltator,,Olon--pueblo y alrededores (town and surroundings),EC-SE,26 Dec 2021,L13211781,S99490862
+191,Ecuadorian Ground Dove,,"Olon, Santa Elena, EC (-1.796, -80.76)",EC-SE,26 Dec 2021,L17202378,S99490863
+192,Black-necked Stilt,,"Olon, Santa Elena, EC (-1.796, -80.76)",EC-SE,26 Dec 2021,L17202378,S99490863
+193,Whimbrel,,"Olon, Santa Elena, EC (-1.796, -80.76)",EC-SE,26 Dec 2021,L17202378,S99490863
+194,Royal Tern,,"Olon, Santa Elena, EC (-1.796, -80.76)",EC-SE,26 Dec 2021,L17202378,S99490863
+195,Magnificent Frigatebird,,"Olon, Santa Elena, EC (-1.796, -80.76)",EC-SE,26 Dec 2021,L17202378,S99490863
+196,Great Egret,,"Olon, Santa Elena, EC (-1.796, -80.76)",EC-SE,26 Dec 2021,L17202378,S99490863
+197,Tricolored Heron,,"Olon, Santa Elena, EC (-1.796, -80.76)",EC-SE,26 Dec 2021,L17202378,S99490863
+198,Yellow-crowned Night-Heron,,"Olon, Santa Elena, EC (-1.796, -80.76)",EC-SE,26 Dec 2021,L17202378,S99490863
+199,Streak-headed Woodcreeper,,"Olon, Santa Elena, EC (-1.796, -80.76)",EC-SE,26 Dec 2021,L17202378,S99490863
+200,Pale-legged Hornero,,"Olon, Santa Elena, EC (-1.796, -80.76)",EC-SE,26 Dec 2021,L17202378,S99490863
+201,Fasciated Wren,,"Olon, Santa Elena, EC (-1.796, -80.76)",EC-SE,26 Dec 2021,L17202378,S99490863
+202,White-tipped Dove,,"Ruta del Spondylus, La Rinconada, Santa Elena, EC (-1.791, -80.756)",EC-SE,26 Dec 2021,L17199729,S99490864
+203,Amazilia Hummingbird,,"Ruta del Spondylus, La Rinconada, Santa Elena, EC (-1.791, -80.756)",EC-SE,26 Dec 2021,L17199729,S99490864
+204,Pacific Antwren,1,"Ruta del Spondylus, La Rinconada, Santa Elena, EC (-1.791, -80.756)",EC-SE,26 Dec 2021,L17199729,S99490864
+205,Scrub Blackbird,,"Ruta del Spondylus, La Rinconada, Santa Elena, EC (-1.791, -80.756)",EC-SE,26 Dec 2021,L17199729,S99490864
+206,Ecuadorian Hillstar,,PN El Cajas--Laguna Torreadora,EC-A,22 Dec 2021,L1890605,S99282610
+207,Blue-mantled Thornbill,,PN El Cajas--Laguna Torreadora,EC-A,22 Dec 2021,L1890605,S99282610
+208,Tawny Antpitta,,PN El Cajas--Laguna Torreadora,EC-A,22 Dec 2021,L1890605,S99282610
+209,Chestnut-winged Cinclodes,,PN El Cajas--Laguna Torreadora,EC-A,22 Dec 2021,L1890605,S99282610
+210,Stout-billed Cinclodes,,PN El Cajas--Laguna Torreadora,EC-A,22 Dec 2021,L1890605,S99282610
+211,Plain-capped Ground-Tyrant,,PN El Cajas--Laguna Torreadora,EC-A,22 Dec 2021,L1890605,S99282610
+212,Black-billed Shrike-Tyrant,,PN El Cajas--Laguna Torreadora,EC-A,22 Dec 2021,L1890605,S99282610
+213,Brown-backed Chat-Tyrant,,PN El Cajas--Laguna Torreadora,EC-A,22 Dec 2021,L1890605,S99282610
+214,Grass Wren,,PN El Cajas--Laguna Torreadora,EC-A,22 Dec 2021,L1890605,S99282610
+215,Tit-like Dacnis,,PN El Cajas--Laguna Torreadora,EC-A,22 Dec 2021,L1890605,S99282610
+216,Plumbeous Sierra Finch,,PN El Cajas--Laguna Torreadora,EC-A,22 Dec 2021,L1890605,S99282610
+217,Andean Teal,,"Laguna de Llaviuco, Parque Nacional Cajas",EC-A,21 Dec 2021,L16947311,S99282611
+218,Andean Duck,,"Laguna de Llaviuco, Parque Nacional Cajas",EC-A,21 Dec 2021,L16947311,S99282611
+219,Andean Guan,,"Laguna de Llaviuco, Parque Nacional Cajas",EC-A,21 Dec 2021,L16947311,S99282611
+220,Tyrian Metaltail,,"Laguna de Llaviuco, Parque Nacional Cajas",EC-A,21 Dec 2021,L16947311,S99282611
+221,Sapphire-vented Puffleg,,"Laguna de Llaviuco, Parque Nacional Cajas",EC-A,21 Dec 2021,L16947311,S99282611
+222,Slate-colored Coot,,"Laguna de Llaviuco, Parque Nacional Cajas",EC-A,21 Dec 2021,L16947311,S99282611
+223,Andean Gull,,"Laguna de Llaviuco, Parque Nacional Cajas",EC-A,21 Dec 2021,L16947311,S99282611
+224,Gray-breasted Mountain-Toucan,,"Laguna de Llaviuco, Parque Nacional Cajas",EC-A,21 Dec 2021,L16947311,S99282611
+225,Pearled Treerunner,,"Laguna de Llaviuco, Parque Nacional Cajas",EC-A,21 Dec 2021,L16947311,S99282611
+226,Azara's Spinetail,,"Laguna de Llaviuco, Parque Nacional Cajas",EC-A,21 Dec 2021,L16947311,S99282611
+227,Red-crested Cotinga,,"Laguna de Llaviuco, Parque Nacional Cajas",EC-A,21 Dec 2021,L16947311,S99282611
+228,White-banded Tyrannulet,,"Laguna de Llaviuco, Parque Nacional Cajas",EC-A,21 Dec 2021,L16947311,S99282611
+229,Rufous-breasted Chat-Tyrant,,"Laguna de Llaviuco, Parque Nacional Cajas",EC-A,21 Dec 2021,L16947311,S99282611
+230,Turquoise Jay,,"Laguna de Llaviuco, Parque Nacional Cajas",EC-A,21 Dec 2021,L16947311,S99282611
+231,Brown-bellied Swallow,,"Laguna de Llaviuco, Parque Nacional Cajas",EC-A,21 Dec 2021,L16947311,S99282611
+232,Black-crested Warbler,,"Laguna de Llaviuco, Parque Nacional Cajas",EC-A,21 Dec 2021,L16947311,S99282611
+233,Spectacled Redstart,,"Laguna de Llaviuco, Parque Nacional Cajas",EC-A,21 Dec 2021,L16947311,S99282611
+234,Superciliaried Hemispingus,,"Laguna de Llaviuco, Parque Nacional Cajas",EC-A,21 Dec 2021,L16947311,S99282611
+235,Black Flowerpiercer,,"Laguna de Llaviuco, Parque Nacional Cajas",EC-A,21 Dec 2021,L16947311,S99282611
+236,Masked Flowerpiercer,,"Laguna de Llaviuco, Parque Nacional Cajas",EC-A,21 Dec 2021,L16947311,S99282611
+237,Plain-colored Seedeater,,"Laguna de Llaviuco, Parque Nacional Cajas",EC-A,21 Dec 2021,L16947311,S99282611
+238,Band-tailed Pigeon,,"183 Francisco Cuesta, Cuenca, Azuay, EC (-2.915, -79.008)",EC-A,20 Dec 2021,L17149775,S99209543
+239,Eared Dove,,"183 Francisco Cuesta, Cuenca, Azuay, EC (-2.915, -79.008)",EC-A,20 Dec 2021,L17149775,S99209543
+240,Sparkling Violetear,,"183 Francisco Cuesta, Cuenca, Azuay, EC (-2.915, -79.008)",EC-A,20 Dec 2021,L17149775,S99209543
+241,Great Thrush,,"183 Francisco Cuesta, Cuenca, Azuay, EC (-2.915, -79.008)",EC-A,20 Dec 2021,L17149775,S99209543
+242,Chiguanco Thrush,,"183 Francisco Cuesta, Cuenca, Azuay, EC (-2.915, -79.008)",EC-A,20 Dec 2021,L17149775,S99209543
+243,Hooded Siskin,,"183 Francisco Cuesta, Cuenca, Azuay, EC (-2.915, -79.008)",EC-A,20 Dec 2021,L17149775,S99209543
+244,Rufous-collared Sparrow,,"183 Francisco Cuesta, Cuenca, Azuay, EC (-2.915, -79.008)",EC-A,20 Dec 2021,L17149775,S99209543
+245,Golden Grosbeak,,"183 Francisco Cuesta, Cuenca, Azuay, EC (-2.915, -79.008)",EC-A,20 Dec 2021,L17149775,S99209543
+246,Townsend's Solitaire,,"2350 Water Canyon Road, Eagar, Arizona, US (34.066, -109.293)",US-AZ,10 Oct 2021,L16612761,S95999151
+247,Common Merganser,3,"Big Lake Road, Greer, Arizona, US (33.875, -109.414)",US-AZ,08 Oct 2021,L16631678,S96065754
+248,American Crow,,"Big Lake Road, Greer, Arizona, US (33.875, -109.414)",US-AZ,08 Oct 2021,L16631678,S96065754
+249,Northern Pygmy-Owl,,Long Park,US-AZ,04 Sep 2021,L11853083,S95999158
+250,Wild Turkey,,Road between Onion Saddle and Barfoot Jct,US-AZ,03 Sep 2021,L1035433,S94284781
+251,Yellow-billed Cuckoo,,333 harshaw creek rd.,US-AZ,15 Aug 2021,L14286380,S93488009
+252,Gray Hawk,,333 harshaw creek rd.,US-AZ,15 Aug 2021,L14286380,S93488009
+253,Blue Grosbeak,,333 harshaw creek rd.,US-AZ,15 Aug 2021,L14286380,S93488009
+254,Lesser Nighthawk,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,12 Jul 2021,L12260655,S93488010
+255,Black-chinned Hummingbird,,Harshaw Creek Road,US-AZ,10 Jul 2021,L768735,S93488013
+256,Elf Owl,,Harshaw Creek Road,US-AZ,10 Jul 2021,L768735,S93488013
+257,Cassin's Kingbird,,Harshaw Creek Road,US-AZ,10 Jul 2021,L768735,S93488013
+258,Thick-billed Kingbird,,Harshaw Creek Road,US-AZ,10 Jul 2021,L768735,S93488013
+259,Scott's Oriole,,Harshaw Creek Road,US-AZ,10 Jul 2021,L768735,S93488013
+260,Hermit Thrush,,"Summit Road, Mount Lemmon, Arizona, US (32.441, -110.789)",US-AZ,09 Jul 2021,L14928744,S93488014
+261,Purple Martin,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,03 Jul 2021,L12260655,S93488015
+262,Bronzed Cowbird,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,03 Jul 2021,L12260655,S93488015
+263,Rivoli's Hummingbird,,"Summit Road, Mount Lemmon, Arizona, US (32.441, -110.789)",US-AZ,14 May 2021,L14928744,S88136400
+264,Zone-tailed Hawk,,"Summit Road, Mount Lemmon, Arizona, US (32.441, -110.789)",US-AZ,14 May 2021,L14928744,S88136400
+265,Cordilleran Flycatcher,,"Summit Road, Mount Lemmon, Arizona, US (32.441, -110.789)",US-AZ,14 May 2021,L14928744,S88136400
+266,Red-faced Warbler,,"Summit Road, Mount Lemmon, Arizona, US (32.441, -110.789)",US-AZ,14 May 2021,L14928744,S88136400
+267,Rufous-crowned Sparrow,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,08 May 2021,L12260655,S88136402
+268,Black-headed Grosbeak,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,08 May 2021,L12260655,S88136402
+269,Ladder-backed Woodpecker,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,01 May 2021,L12260655,S86815839
+270,Ash-throated Flycatcher,,"Unnamed Road, Roosevelt, Arizona, US (33.673, -111.086)",US-AZ,17 Apr 2021,L12541210,S96065789
+271,Lesser Scaup,,"Roosevelt, Arizona, US (33.693, -111.092)",US-AZ,17 Apr 2021,L14496051,S88136406
+272,Clark's Grebe,,"Roosevelt, Arizona, US (33.671, -111.079)",US-AZ,17 Apr 2021,L12541175,S86123458
+273,Costa's Hummingbird,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,04 Apr 2021,L14296184,S84788706
+274,Bell's Vireo,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,04 Apr 2021,L14296184,S84788706
+275,Lucy's Warbler,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,04 Apr 2021,L14296184,S84788706
+276,Broad-billed Hummingbird,,"477 Pennsylvania Avenue, Patagonia, Arizona, US (31.539, -110.76)",US-AZ,19 Mar 2021,L14295718,S84765870
+277,Violet-crowned Hummingbird,,"477 Pennsylvania Avenue, Patagonia, Arizona, US (31.539, -110.76)",US-AZ,19 Mar 2021,L14295718,S84765870
+278,Black Vulture,2,"West Tucson-Ajo Highway, Sells, Arizona, US (31.985, -111.722)",US-AZ,21 Feb 2021,L13800640,S82129544
+279,Harris's Hawk,4,"West Tucson-Ajo Highway, Sells, Arizona, US (31.985, -111.722)",US-AZ,21 Feb 2021,L13800640,S82129544
+280,Eurasian Collared-Dove,,"Unnamed Road, Ajo, Arizona, US (32.239, -112.745)",US-AZ,20 Feb 2021,L13800629,S82129448
+281,Crested Caracara,,Organ Pipe Cactus NM--Quitobaquito Springs,US-AZ,19 Feb 2021,L376621,S82129355
+282,Loggerhead Shrike,,Organ Pipe Cactus NM--Quitobaquito Springs,US-AZ,19 Feb 2021,L376621,S82129355
+283,Crissal Thrasher,,Organ Pipe Cactus NM--Quitobaquito Springs,US-AZ,19 Feb 2021,L376621,S82129355
+284,White-throated Swift,,Organ Pipe Cactus NM--Main Campground & Sewage Ponds,US-AZ,18 Feb 2021,L3959912,S82129634
+285,Green-winged Teal,,Whitewater Draw WA,US-AZ,10 Feb 2021,L168765,S84766159
+286,Sandhill Crane,,Whitewater Draw WA,US-AZ,10 Feb 2021,L168765,S84766159
+287,Killdeer,,Whitewater Draw WA,US-AZ,10 Feb 2021,L168765,S84766159
+288,Northern Harrier,,Whitewater Draw WA,US-AZ,10 Feb 2021,L168765,S84766159
+289,Eared Grebe,,"Roosevelt, Arizona, US (33.671, -111.079)",US-AZ,17 Oct 2020,L12541175,S75070487
+290,Greater Roadrunner,,"Roosevelt, Arizona, US (33.671, -111.079)",US-AZ,17 Oct 2020,L12541175,S75070487
+291,Snowy Egret,,"Roosevelt, Arizona, US (33.671, -111.079)",US-AZ,17 Oct 2020,L12541175,S75070487
+292,Bald Eagle,,"Roosevelt, Arizona, US (33.671, -111.079)",US-AZ,17 Oct 2020,L12541175,S75070487
+293,Rock Wren,,"Roosevelt, Arizona, US (33.671, -111.079)",US-AZ,17 Oct 2020,L12541175,S75070487
+294,Western Grebe,,"Unnamed Road, Roosevelt, Arizona, US (33.673, -111.086)",US-AZ,17 Oct 2020,L12541210,S75070732
+295,Great Horned Owl,1,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,14 Oct 2020,L12260655,S74839855
+296,American Avocet,,Mt. Graham--Riggs Lake,US-AZ,22 Sep 2020,L456902,S73945019
+297,Say's Phoebe,,Mt. Graham--Riggs Lake,US-AZ,22 Sep 2020,L456902,S73945019
+298,Plumbeous Vireo,,Mt. Graham--Riggs Lake,US-AZ,22 Sep 2020,L456902,S73945019
+299,Red-breasted Nuthatch,,Mt. Graham--Riggs Lake,US-AZ,22 Sep 2020,L456902,S73945019
+300,Brown Creeper,,Mt. Graham--Riggs Lake,US-AZ,22 Sep 2020,L456902,S73945019
+301,Yellow-eyed Junco,,Mt. Graham--Riggs Lake,US-AZ,22 Sep 2020,L456902,S73945019
+302,Hermit Warbler,,Mt. Graham--Riggs Lake,US-AZ,22 Sep 2020,L456902,S73945019
+303,Pine Siskin,,"New Mexico 15, Silver City, New Mexico, US (33.229, -108.265)",US-NM,21 Sep 2020,L12348469,S73944982
+304,Rufous Hummingbird,,"3790-3804 New Mexico 15, Silver City, New Mexico, US (33.204, -108.214)",US-NM,20 Sep 2020,L12348461,S73944944
+305,Belted Kingfisher,,"3790-3804 New Mexico 15, Silver City, New Mexico, US (33.204, -108.214)",US-NM,20 Sep 2020,L12348461,S73944944
+306,Northern Shoveler,,"Sep 20, 2020 14:59
 33.03, -108.155",US-NM,20 Sep 2020,L12332702,S73844404
-230,Ring-necked Duck,,"Sep 20, 2020 14:59
+307,Ring-necked Duck,,"Sep 20, 2020 14:59
 33.03, -108.155",US-NM,20 Sep 2020,L12332702,S73844404
-231,Ruddy Duck,,"Sep 20, 2020 14:59
+308,Ruddy Duck,,"Sep 20, 2020 14:59
 33.03, -108.155",US-NM,20 Sep 2020,L12332702,S73844404
-232,Sora,,"Sep 20, 2020 14:59
+309,Sora,,"Sep 20, 2020 14:59
 33.03, -108.155",US-NM,20 Sep 2020,L12332702,S73844404
-233,Spotted Sandpiper,,"Sep 20, 2020 14:59
+310,Spotted Sandpiper,,"Sep 20, 2020 14:59
 33.03, -108.155",US-NM,20 Sep 2020,L12332702,S73844404
-234,Double-crested Cormorant,,"Sep 20, 2020 14:59
+311,Double-crested Cormorant,,"Sep 20, 2020 14:59
 33.03, -108.155",US-NM,20 Sep 2020,L12332702,S73844404
-235,Cooper's Hawk,,"Sep 20, 2020 14:59
+312,Cooper's Hawk,,"Sep 20, 2020 14:59
 33.03, -108.155",US-NM,20 Sep 2020,L12332702,S73844404
-236,Cassin's Vireo,,"Sep 20, 2020 14:59
+313,Cassin's Vireo,,"Sep 20, 2020 14:59
 33.03, -108.155",US-NM,20 Sep 2020,L12332702,S73844404
-237,Canyon Towhee,,"Sep 20, 2020 14:59
+314,Canyon Towhee,,"Sep 20, 2020 14:59
 33.03, -108.155",US-NM,20 Sep 2020,L12332702,S73844404
-238,Red-naped Sapsucker,,"Rocky Canyon Trail, Silver City, New Mexico, US (33.1, -108.014)",US-NM,19 Sep 2020,L12499414,S74839879
-239,Acorn Woodpecker,,"Rocky Canyon Trail, Silver City, New Mexico, US (33.1, -108.014)",US-NM,19 Sep 2020,L12499414,S74839879
-240,Mountain Chickadee,,"Rocky Canyon Trail, Silver City, New Mexico, US (33.1, -108.014)",US-NM,19 Sep 2020,L12499414,S74839879
-241,Pygmy Nuthatch,,"Rocky Canyon Trail, Silver City, New Mexico, US (33.1, -108.014)",US-NM,19 Sep 2020,L12499414,S74839879
-242,Canyon Wren,,"Rocky Canyon Trail, Silver City, New Mexico, US (33.1, -108.014)",US-NM,19 Sep 2020,L12499414,S74839879
-243,Dark-eyed Junco,,"Rocky Canyon Trail, Silver City, New Mexico, US (33.1, -108.014)",US-NM,19 Sep 2020,L12499414,S74839879
-244,Yellow-rumped Warbler,,"Rocky Canyon Trail, Silver City, New Mexico, US (33.1, -108.014)",US-NM,19 Sep 2020,L12499414,S74839879
-245,Townsend's Warbler,,"Rocky Canyon Trail, Silver City, New Mexico, US (33.1, -108.014)",US-NM,19 Sep 2020,L12499414,S74839879
-246,Swainson's Hawk,,"2nd Street, San Antonio, New Mexico, US (33.921, -106.853)",US-NM,18 Sep 2020,L12332742,S73844628
-247,Ruby-crowned Kinglet,,"2nd Street, San Antonio, New Mexico, US (33.921, -106.853)",US-NM,18 Sep 2020,L12332742,S73844628
-248,White-breasted Nuthatch,,"2nd Street, San Antonio, New Mexico, US (33.921, -106.853)",US-NM,18 Sep 2020,L12332742,S73844628
-249,Cedar Waxwing,,"2nd Street, San Antonio, New Mexico, US (33.921, -106.853)",US-NM,18 Sep 2020,L12332742,S73844628
-250,Great Blue Heron,,Apache Creek Campground,US-NM,17 Sep 2020,L12332707,S73844432
-251,Western Wood-Pewee,,Apache Creek Campground,US-NM,17 Sep 2020,L12332707,S73844432
-252,House Wren,,Apache Creek Campground,US-NM,17 Sep 2020,L12332707,S73844432
-253,Western Bluebird,,Apache Creek Campground,US-NM,17 Sep 2020,L12332707,S73844432
-254,White-crowned Sparrow,,Apache Creek Campground,US-NM,17 Sep 2020,L12332707,S73844432
-255,Lincoln's Sparrow,,Apache Creek Campground,US-NM,17 Sep 2020,L12332707,S73844432
-256,Broad-tailed Hummingbird,,Apache Creek Campground,US-NM,16 Sep 2020,L12332730,S73844561
-257,Steller's Jay,,Apache Creek Campground,US-NM,16 Sep 2020,L12332730,S73844561
-258,Marsh Wren,,Apache Creek Campground,US-NM,16 Sep 2020,L12332730,S73844561
-259,American Robin,,Apache Creek Campground,US-NM,16 Sep 2020,L12332730,S73844561
-260,Spotted Towhee,,Apache Creek Campground,US-NM,16 Sep 2020,L12332730,S73844561
-261,Nashville Warbler,,Apache Creek Campground,US-NM,16 Sep 2020,L12332730,S73844561
-262,Common Yellowthroat,,Apache Creek Campground,US-NM,16 Sep 2020,L12332730,S73844561
-263,Western Tanager,,Apache Creek Campground,US-NM,16 Sep 2020,L12332730,S73844561
-264,Woodhouse's Scrub-Jay,,"93 Cat Walk Road, New Mexico, US (33.328, -108.872)",US-NM,15 Sep 2020,L12298003,S73638369
-265,Williamson's Sapsucker,,"Bill Evans Road, Silver City, New Mexico, US (32.842, -108.586)",US-NM,15 Sep 2020,L12298011,S73638433
-266,Mexican Jay,,"Bill Evans Road, Silver City, New Mexico, US (32.842, -108.586)",US-NM,15 Sep 2020,L12298011,S73638433
-267,Summer Tanager,,"Bill Evans Road, Silver City, New Mexico, US (32.842, -108.586)",US-NM,15 Sep 2020,L12298011,S73638433
-268,Common Black Hawk,,"Bill Evans Road, Silver City, New Mexico, US (32.835, -108.609)",US-NM,15 Sep 2020,L12298022,S73638481
-269,Hairy Woodpecker,,"Bill Evans Road, Silver City, New Mexico, US (32.835, -108.609)",US-NM,15 Sep 2020,L12298022,S73638481
-270,Hepatic Tanager,,"Bill Evans Road, Silver City, New Mexico, US (32.835, -108.609)",US-NM,15 Sep 2020,L12298022,S73638481
-271,Northern Cardinal,,"Bill Evans Road, Silver City, New Mexico, US (32.835, -108.609)",US-NM,15 Sep 2020,L12298022,S73638481
-272,Northern Flicker,,"Bill Evans Road, Silver City, New Mexico, US (32.835, -108.608)",US-NM,14 Sep 2020,L12298037,S73638558
-273,Black Phoebe,,"Bill Evans Road, Silver City, New Mexico, US (32.835, -108.608)",US-NM,14 Sep 2020,L12298037,S73638558
-274,Bridled Titmouse,,"Bill Evans Road, Silver City, New Mexico, US (32.835, -108.608)",US-NM,14 Sep 2020,L12298037,S73638558
-275,Lark Sparrow,,"Bill Evans Road, Silver City, New Mexico, US (32.835, -108.608)",US-NM,14 Sep 2020,L12298037,S73638558
-276,Mallard,,"Unnamed Road, Silver City, New Mexico, US (32.868, -108.574)",US-NM,14 Sep 2020,L12298031,S73638529
-277,Pied-billed Grebe,,"Unnamed Road, Silver City, New Mexico, US (32.868, -108.574)",US-NM,14 Sep 2020,L12298031,S73638529
-278,White-winged Dove,,"Unnamed Road, Silver City, New Mexico, US (32.868, -108.574)",US-NM,14 Sep 2020,L12298031,S73638529
-279,American Coot,,"Unnamed Road, Silver City, New Mexico, US (32.868, -108.574)",US-NM,14 Sep 2020,L12298031,S73638529
-280,Turkey Vulture,,"Unnamed Road, Silver City, New Mexico, US (32.868, -108.574)",US-NM,14 Sep 2020,L12298031,S73638529
-281,Osprey,,"Unnamed Road, Silver City, New Mexico, US (32.868, -108.574)",US-NM,14 Sep 2020,L12298031,S73638529
-282,Common Raven,,"Unnamed Road, Silver City, New Mexico, US (32.868, -108.574)",US-NM,14 Sep 2020,L12298031,S73638529
-283,Great-tailed Grackle,,"Unnamed Road, Silver City, New Mexico, US (32.868, -108.574)",US-NM,14 Sep 2020,L12298031,S73638529
-284,MacGillivray's Warbler,,"Unnamed Road, Silver City, New Mexico, US (32.868, -108.574)",US-NM,14 Sep 2020,L12298031,S73638529
-285,Wilson's Warbler,,"Unnamed Road, Silver City, New Mexico, US (32.868, -108.574)",US-NM,14 Sep 2020,L12298031,S73638529
-286,Gambel's Quail,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,11 Sep 2020,L12260655,S73455933
-287,Mourning Dove,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,11 Sep 2020,L12260655,S73455933
-288,Anna's Hummingbird,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,11 Sep 2020,L12260655,S73455933
-289,Red-tailed Hawk,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,11 Sep 2020,L12260655,S73455933
-290,Gila Woodpecker,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,11 Sep 2020,L12260655,S73455933
-291,Verdin,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,11 Sep 2020,L12260655,S73455933
-292,Black-tailed Gnatcatcher,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,11 Sep 2020,L12260655,S73455933
-293,Bewick's Wren,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,11 Sep 2020,L12260655,S73455933
-294,Cactus Wren,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,11 Sep 2020,L12260655,S73455933
-295,Curve-billed Thrasher,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,11 Sep 2020,L12260655,S73455933
-296,Northern Mockingbird,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,11 Sep 2020,L12260655,S73455933
-297,Phainopepla,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,11 Sep 2020,L12260655,S73455933
-298,House Sparrow,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,11 Sep 2020,L12260655,S73455933
-299,House Finch,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,11 Sep 2020,L12260655,S73455933
-300,Lesser Goldfinch,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,11 Sep 2020,L12260655,S73455933
-301,Black-throated Sparrow,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,11 Sep 2020,L12260655,S73455933
-302,Green-tailed Towhee,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,11 Sep 2020,L12260655,S73455933
-303,Black-throated Gray Warbler,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,11 Sep 2020,L12260655,S73455933
-304,Pyrrhuloxia,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,11 Sep 2020,L12260655,S73455933
-305,Yellow-breasted Chat,1,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,10 Sep 2020,L12260655,S73417935
-306,Spotted Nothura,1,Villa Serrana--Área General,UY-LA,18 Aug 2015,L2762266,S60052866
-307,Blue-and-white Swallow,1,Villa Serrana--Área General,UY-LA,18 Aug 2015,L2762266,S60052866
-308,Black-and-rufous Warbling Finch,1,Villa Serrana--Área General,UY-LA,18 Aug 2015,L2762266,S60052866
-309,Peruvian Thick-knee,1,"Caral, Gobierno Regional de Lima, PE (-10.893, -77.521)",PE-LIM,20 May 2015,L9949392,S60053027
-310,Vermilion Flycatcher,1,"Caral, Gobierno Regional de Lima, PE (-10.893, -77.521)",PE-LIM,20 May 2015,L9949392,S60053027
+315,Red-naped Sapsucker,,"Rocky Canyon Trail, Silver City, New Mexico, US (33.1, -108.014)",US-NM,19 Sep 2020,L12499414,S74839879
+316,Acorn Woodpecker,,"Rocky Canyon Trail, Silver City, New Mexico, US (33.1, -108.014)",US-NM,19 Sep 2020,L12499414,S74839879
+317,Mountain Chickadee,,"Rocky Canyon Trail, Silver City, New Mexico, US (33.1, -108.014)",US-NM,19 Sep 2020,L12499414,S74839879
+318,Pygmy Nuthatch,,"Rocky Canyon Trail, Silver City, New Mexico, US (33.1, -108.014)",US-NM,19 Sep 2020,L12499414,S74839879
+319,Canyon Wren,,"Rocky Canyon Trail, Silver City, New Mexico, US (33.1, -108.014)",US-NM,19 Sep 2020,L12499414,S74839879
+320,Dark-eyed Junco,,"Rocky Canyon Trail, Silver City, New Mexico, US (33.1, -108.014)",US-NM,19 Sep 2020,L12499414,S74839879
+321,Yellow-rumped Warbler,,"Rocky Canyon Trail, Silver City, New Mexico, US (33.1, -108.014)",US-NM,19 Sep 2020,L12499414,S74839879
+322,Townsend's Warbler,,"Rocky Canyon Trail, Silver City, New Mexico, US (33.1, -108.014)",US-NM,19 Sep 2020,L12499414,S74839879
+323,Swainson's Hawk,,"2nd Street, San Antonio, New Mexico, US (33.921, -106.853)",US-NM,18 Sep 2020,L12332742,S73844628
+324,Ruby-crowned Kinglet,,"2nd Street, San Antonio, New Mexico, US (33.921, -106.853)",US-NM,18 Sep 2020,L12332742,S73844628
+325,White-breasted Nuthatch,,"2nd Street, San Antonio, New Mexico, US (33.921, -106.853)",US-NM,18 Sep 2020,L12332742,S73844628
+326,Cedar Waxwing,,"2nd Street, San Antonio, New Mexico, US (33.921, -106.853)",US-NM,18 Sep 2020,L12332742,S73844628
+327,Great Blue Heron,,Apache Creek Campground,US-NM,17 Sep 2020,L12332707,S73844432
+328,Western Wood-Pewee,,Apache Creek Campground,US-NM,17 Sep 2020,L12332707,S73844432
+329,House Wren,,Apache Creek Campground,US-NM,17 Sep 2020,L12332707,S73844432
+330,Western Bluebird,,Apache Creek Campground,US-NM,17 Sep 2020,L12332707,S73844432
+331,White-crowned Sparrow,,Apache Creek Campground,US-NM,17 Sep 2020,L12332707,S73844432
+332,Lincoln's Sparrow,,Apache Creek Campground,US-NM,17 Sep 2020,L12332707,S73844432
+333,Broad-tailed Hummingbird,,Apache Creek Campground,US-NM,16 Sep 2020,L12332730,S73844561
+334,Steller's Jay,,Apache Creek Campground,US-NM,16 Sep 2020,L12332730,S73844561
+335,Marsh Wren,,Apache Creek Campground,US-NM,16 Sep 2020,L12332730,S73844561
+336,American Robin,,Apache Creek Campground,US-NM,16 Sep 2020,L12332730,S73844561
+337,Spotted Towhee,,Apache Creek Campground,US-NM,16 Sep 2020,L12332730,S73844561
+338,Nashville Warbler,,Apache Creek Campground,US-NM,16 Sep 2020,L12332730,S73844561
+339,Common Yellowthroat,,Apache Creek Campground,US-NM,16 Sep 2020,L12332730,S73844561
+340,Western Tanager,,Apache Creek Campground,US-NM,16 Sep 2020,L12332730,S73844561
+341,Woodhouse's Scrub-Jay,,"93 Cat Walk Road, New Mexico, US (33.328, -108.872)",US-NM,15 Sep 2020,L12298003,S73638369
+342,Williamson's Sapsucker,,"Bill Evans Road, Silver City, New Mexico, US (32.842, -108.586)",US-NM,15 Sep 2020,L12298011,S73638433
+343,Mexican Jay,,"Bill Evans Road, Silver City, New Mexico, US (32.842, -108.586)",US-NM,15 Sep 2020,L12298011,S73638433
+344,Summer Tanager,,"Bill Evans Road, Silver City, New Mexico, US (32.842, -108.586)",US-NM,15 Sep 2020,L12298011,S73638433
+345,Common Black Hawk,,"Bill Evans Road, Silver City, New Mexico, US (32.835, -108.609)",US-NM,15 Sep 2020,L12298022,S73638481
+346,Hairy Woodpecker,,"Bill Evans Road, Silver City, New Mexico, US (32.835, -108.609)",US-NM,15 Sep 2020,L12298022,S73638481
+347,Hepatic Tanager,,"Bill Evans Road, Silver City, New Mexico, US (32.835, -108.609)",US-NM,15 Sep 2020,L12298022,S73638481
+348,Northern Cardinal,,"Bill Evans Road, Silver City, New Mexico, US (32.835, -108.609)",US-NM,15 Sep 2020,L12298022,S73638481
+349,Northern Flicker,,"Bill Evans Road, Silver City, New Mexico, US (32.835, -108.608)",US-NM,14 Sep 2020,L12298037,S73638558
+350,Black Phoebe,,"Bill Evans Road, Silver City, New Mexico, US (32.835, -108.608)",US-NM,14 Sep 2020,L12298037,S73638558
+351,Bridled Titmouse,,"Bill Evans Road, Silver City, New Mexico, US (32.835, -108.608)",US-NM,14 Sep 2020,L12298037,S73638558
+352,Lark Sparrow,,"Bill Evans Road, Silver City, New Mexico, US (32.835, -108.608)",US-NM,14 Sep 2020,L12298037,S73638558
+353,Mallard,,"Unnamed Road, Silver City, New Mexico, US (32.868, -108.574)",US-NM,14 Sep 2020,L12298031,S73638529
+354,Pied-billed Grebe,,"Unnamed Road, Silver City, New Mexico, US (32.868, -108.574)",US-NM,14 Sep 2020,L12298031,S73638529
+355,White-winged Dove,,"Unnamed Road, Silver City, New Mexico, US (32.868, -108.574)",US-NM,14 Sep 2020,L12298031,S73638529
+356,American Coot,,"Unnamed Road, Silver City, New Mexico, US (32.868, -108.574)",US-NM,14 Sep 2020,L12298031,S73638529
+357,Turkey Vulture,,"Unnamed Road, Silver City, New Mexico, US (32.868, -108.574)",US-NM,14 Sep 2020,L12298031,S73638529
+358,Osprey,,"Unnamed Road, Silver City, New Mexico, US (32.868, -108.574)",US-NM,14 Sep 2020,L12298031,S73638529
+359,Common Raven,,"Unnamed Road, Silver City, New Mexico, US (32.868, -108.574)",US-NM,14 Sep 2020,L12298031,S73638529
+360,Great-tailed Grackle,,"Unnamed Road, Silver City, New Mexico, US (32.868, -108.574)",US-NM,14 Sep 2020,L12298031,S73638529
+361,MacGillivray's Warbler,,"Unnamed Road, Silver City, New Mexico, US (32.868, -108.574)",US-NM,14 Sep 2020,L12298031,S73638529
+362,Wilson's Warbler,,"Unnamed Road, Silver City, New Mexico, US (32.868, -108.574)",US-NM,14 Sep 2020,L12298031,S73638529
+363,Gambel's Quail,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,11 Sep 2020,L12260655,S73455933
+364,Mourning Dove,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,11 Sep 2020,L12260655,S73455933
+365,Anna's Hummingbird,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,11 Sep 2020,L12260655,S73455933
+366,Red-tailed Hawk,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,11 Sep 2020,L12260655,S73455933
+367,Gila Woodpecker,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,11 Sep 2020,L12260655,S73455933
+368,Verdin,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,11 Sep 2020,L12260655,S73455933
+369,Black-tailed Gnatcatcher,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,11 Sep 2020,L12260655,S73455933
+370,Bewick's Wren,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,11 Sep 2020,L12260655,S73455933
+371,Cactus Wren,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,11 Sep 2020,L12260655,S73455933
+372,Curve-billed Thrasher,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,11 Sep 2020,L12260655,S73455933
+373,Northern Mockingbird,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,11 Sep 2020,L12260655,S73455933
+374,Phainopepla,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,11 Sep 2020,L12260655,S73455933
+375,House Sparrow,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,11 Sep 2020,L12260655,S73455933
+376,House Finch,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,11 Sep 2020,L12260655,S73455933
+377,Lesser Goldfinch,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,11 Sep 2020,L12260655,S73455933
+378,Black-throated Sparrow,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,11 Sep 2020,L12260655,S73455933
+379,Green-tailed Towhee,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,11 Sep 2020,L12260655,S73455933
+380,Black-throated Gray Warbler,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,11 Sep 2020,L12260655,S73455933
+381,Pyrrhuloxia,,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,11 Sep 2020,L12260655,S73455933
+382,Yellow-breasted Chat,1,"11655 East Camino Del Desierto, Tucson, Arizona, US (32.161, -110.742)",US-AZ,10 Sep 2020,L12260655,S73417935
+383,Spotted Nothura,1,Villa Serrana--Área General,UY-LA,18 Aug 2015,L2762266,S60052866
+384,Blue-and-white Swallow,1,Villa Serrana--Área General,UY-LA,18 Aug 2015,L2762266,S60052866
+385,Black-and-rufous Warbling Finch,1,Villa Serrana--Área General,UY-LA,18 Aug 2015,L2762266,S60052866
+386,Peruvian Thick-knee,1,"Caral, Gobierno Regional de Lima, PE (-10.893, -77.521)",PE-LIM,20 May 2015,L9949392,S60053027
+387,Vermilion Flycatcher,1,"Caral, Gobierno Regional de Lima, PE (-10.893, -77.521)",PE-LIM,20 May 2015,L9949392,S60053027
