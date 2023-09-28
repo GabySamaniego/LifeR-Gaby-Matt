@@ -13,7 +13,7 @@ library("lifeR")
 vignette(topic = "lifer-intro", package = "lifeR")
 
 # Location of the file with your year list
-list_file <- "data/ebird_world_life_list.csv"
+list_file <- "data/ebird_world_year_list_GS.csv"
 
 # Read the list of species into memory
 user_list <- read.csv(file = list_file)
@@ -26,7 +26,7 @@ my_species <- user_list$Common.Name
 key <- scan(file = "API.txt", what = "character")
 
 # A single center requires vector of coordinates
-locs <- c(32.470388, -111.474568)
+locs <- c(32.160953, -110.742053)
 SitesReport(centers = locs, 
             ebird_key = key, 
             species_seen = my_species)
@@ -53,3 +53,21 @@ SitesReport(centers = locs_23,
             ebird_key = key, 
             species_seen = my_species_23)
 
+# Find different species in Matt's and Gaby's life lists
+
+# Load data
+gaby <- read.csv('data/ebird_world_life_list_GS.csv')
+matt <- read.csv('data/ebird_world_life_list_MF.csv')
+
+# Prep data
+gaby <- gaby %>% 
+  select(Common.Name)
+
+matt <- matt %>% 
+  select(Common.Name)
+
+# Different species in Gaby's list
+dplyr::setdiff(gaby,matt)
+
+# Different species in Matt's list 
+dplyr::setdiff(matt,gaby)
