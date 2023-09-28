@@ -1,0 +1,287 @@
+Row #,Taxon Order,Category,Common Name,Scientific Name,Count,Location,S/P,Date,LocID,SubID,Exotic,Countable
+1,31032,species,Western Yellow Wagtail,Motacilla flava,4,ÖKA Sultansazlığı--Sultansazlığı MP,TR-38,20 Sep 2023,L2428049,S150331561,,1
+2,11742,species,Eurasian Hobby,Falco subbuteo,1,ÖKA Sultansazlığı--Sultansazlığı MP,TR-38,20 Sep 2023,L2428049,S150331561,,1
+3,7531,species,Eurasian Spoonbill,Platalea leucorodia,50,ÖKA Sultansazlığı--Sultansazlığı MP,TR-38,20 Sep 2023,L2428049,S150331561,,1
+4,7479,species,Glossy Ibis,Plegadis falcinellus,4,ÖKA Sultansazlığı--Sultansazlığı MP,TR-38,20 Sep 2023,L2428049,S150331561,,1
+5,6367,species,Slender-billed Gull,Chroicocephalus genei,5,ÖKA Sultansazlığı--Sultansazlığı MP,TR-38,20 Sep 2023,L2428049,S150331561,,1
+6,6127,species,Common Greenshank,Tringa nebularia,8,ÖKA Sultansazlığı--Sultansazlığı MP,TR-38,20 Sep 2023,L2428049,S150331561,,1
+7,5962,species,Black-tailed Godwit,Limosa limosa,5,ÖKA Sultansazlığı--Sultansazlığı MP,TR-38,20 Sep 2023,L2428049,S150331561,,1
+8,5749,species,Northern Lapwing,Vanellus vanellus,1,ÖKA Sultansazlığı--Sultansazlığı MP,TR-38,20 Sep 2023,L2428049,S150331561,,1
+9,1771,species,Greater Flamingo,Phoenicopterus roseus,78,ÖKA Sultansazlığı--Sultansazlığı MP,TR-38,20 Sep 2023,L2428049,S150331561,,1
+10,32132,species,Reed Bunting,Emberiza schoeniclus,1,ÖKA Sultansazlığı--Sultansazlığı MP,TR-38,20 Sep 2023,L2428049,S150317002,,1
+11,30904,species,Spanish Sparrow,Passer hispaniolensis,,ÖKA Sultansazlığı--Sultansazlığı MP,TR-38,20 Sep 2023,L2428049,S150317002,,1
+12,29164,species,Isabelline Wheatear,Oenanthe isabellina,3,ÖKA Sultansazlığı--Sultansazlığı MP,TR-38,20 Sep 2023,L2428049,S150317002,,1
+13,23729,species,Common House-Martin,Delichon urbicum,4,ÖKA Sultansazlığı--Sultansazlığı MP,TR-38,20 Sep 2023,L2428049,S150317002,,1
+14,23564,species,Bank Swallow,Riparia riparia,10,ÖKA Sultansazlığı--Sultansazlığı MP,TR-38,20 Sep 2023,L2428049,S150317002,,1
+15,23133,species,Moustached Warbler,Acrocephalus melanopogon,15,ÖKA Sultansazlığı--Sultansazlığı MP,TR-38,20 Sep 2023,L2428049,S150317002,,1
+16,22313,species,Bearded Reedling,Panurus biarmicus,10,ÖKA Sultansazlığı--Sultansazlığı MP,TR-38,20 Sep 2023,L2428049,S150317002,,1
+17,21769,species,Eurasian Penduline-Tit,Remiz pendulinus,7,ÖKA Sultansazlığı--Sultansazlığı MP,TR-38,20 Sep 2023,L2428049,S150317002,,1
+18,7857,species,Eurasian Marsh-Harrier,Circus aeruginosus,3,ÖKA Sultansazlığı--Sultansazlığı MP,TR-38,20 Sep 2023,L2428049,S150317002,,1
+19,7053,species,Black Stork,Ciconia nigra,1,ÖKA Sultansazlığı--Sultansazlığı MP,TR-38,20 Sep 2023,L2428049,S150317002,,1
+20,5516,species,Little Crake,Zapornia parva,1,ÖKA Sultansazlığı--Sultansazlığı MP,TR-38,20 Sep 2023,L2428049,S150317002,,1
+21,1830,species,Great Crested Grebe,Podiceps cristatus,1,ÖKA Sultansazlığı--Sultansazlığı MP,TR-38,20 Sep 2023,L2428049,S150317002,,1
+22,1786,species,Little Grebe,Tachybaptus ruficollis,4,ÖKA Sultansazlığı--Sultansazlığı MP,TR-38,20 Sep 2023,L2428049,S150317002,,1
+23,729,species,White-headed Duck,Oxyura leucocephala,2,ÖKA Sultansazlığı--Sultansazlığı MP,TR-38,20 Sep 2023,L2428049,S150317002,,1
+24,444,species,Garganey,Spatula querquedula,1,ÖKA Sultansazlığı--Sultansazlığı MP,TR-38,20 Sep 2023,L2428049,S150317002,,1
+25,30954,species,Eurasian Tree Sparrow,Passer montanus,3,"Uzun Dere Caddesi, Göreme, Nevşehir, TR (38.64, 34.822)",TR-50,19 Sep 2023,L27167881,S150317006,,1
+26,28979,species,Common Redstart,Phoenicurus phoenicurus,5,"Uzun Dere Caddesi, Göreme, Nevşehir, TR (38.64, 34.822)",TR-50,19 Sep 2023,L27167881,S150317006,,1
+27,27232,species,European Starling,Sturnus vulgaris,40,"Uzun Dere Caddesi, Göreme, Nevşehir, TR (38.64, 34.822)",TR-50,19 Sep 2023,L27167881,S150317006,,1
+28,20526,species,Red-backed Shrike,Lanius collurio,1,"Uzun Dere Caddesi, Göreme, Nevşehir, TR (38.64, 34.822)",TR-50,19 Sep 2023,L27167881,S150317006,,1
+29,8819,species,Little Owl,Athene noctua,1,"Uzun Dere Caddesi, Göreme, Nevşehir, TR (38.64, 34.822)",TR-50,19 Sep 2023,L27167881,S150317006,,1
+30,8284,species,Long-legged Buzzard,Buteo rufinus,1,"Uzun Dere Caddesi, Göreme, Nevşehir, TR (38.64, 34.822)",TR-50,19 Sep 2023,L27167881,S150317006,,1
+31,23587,species,Eurasian Crag-Martin,Ptyonoprogne rupestris,6,Göreme Tarihi MP--Paşabağ,TR-50,18 Sep 2023,L2394495,S150195684,,1
+32,22266,species,Crested Lark,Galerida cristata,2,Göreme Tarihi MP--Pembe Vadi,TR-50,18 Sep 2023,L1887572,S150195348,,1
+33,1856,species,Rock Pigeon,Columba livia,50,Göreme Tarihi MP--Pembe Vadi,TR-50,18 Sep 2023,L1887572,S150195348,,1
+34,29034,species,Whinchat,Saxicola rubetra,2,Çalış kuş cenneti,TR-48,16 Sep 2023,L6799394,S149991724,,1
+35,23657,species,Red-rumped Swallow,Cecropis daurica,12,Çalış kuş cenneti,TR-48,16 Sep 2023,L6799394,S149991724,,1
+36,7340,species,Little Egret,Egretta garzetta,5,Çalış kuş cenneti,TR-48,16 Sep 2023,L6799394,S149991724,,1
+37,7316,species,Purple Heron,Ardea purpurea,1,Çalış kuş cenneti,TR-48,16 Sep 2023,L6799394,S149991724,,1
+38,6137,species,Common Redshank,Tringa totanus,10,Çalış kuş cenneti,TR-48,16 Sep 2023,L6799394,S149991724,,1
+39,6115,species,Common Sandpiper,Actitis hypoleucos,2,Çalış kuş cenneti,TR-48,16 Sep 2023,L6799394,S149991724,,1
+40,5380,species,Eurasian Moorhen,Gallinula chloropus,7,Çalış kuş cenneti,TR-48,16 Sep 2023,L6799394,S149991724,,1
+41,2033,species,Eurasian Collared-Dove,Streptopelia decaocto,3,Çalış kuş cenneti,TR-48,16 Sep 2023,L6799394,S149991724,,1
+43,24716,species,Eurasian Blackcap,Sylvia atricapilla,1,"TR (36.658, 28.853)",TR-48,13 Sep 2023,L27062928,S149762975,,1
+44,10022,species,European Bee-eater,Merops apiaster,10,"TR (36.658, 28.853)",TR-48,13 Sep 2023,L27062928,S149762975,,1
+45,9547,species,Common Kingfisher,Alcedo atthis,1,"TR (36.658, 28.853)",TR-48,13 Sep 2023,L27062928,S149762975,,1
+46,24753,species,Lesser Whitethroat,Curruca curruca,1,"TR (36.64, 28.854)",TR-48,12 Sep 2023,L27062931,S149762974,,1
+47,21450,species,Coal Tit,Periparus ater,4,"TR (36.64, 28.854)",TR-48,12 Sep 2023,L27062931,S149762974,,1
+48,31293,species,Common Chaffinch,Fringilla coelebs,11,"Muğla, TR (36.643, 28.89)",TR-48,11 Sep 2023,L27037870,S149642358,,1
+49,27860,species,Eurasian Blackbird,Turdus merula,3,"Muğla, TR (36.643, 28.89)",TR-48,11 Sep 2023,L27037870,S149642358,,1
+50,26380,species,Krüper's Nuthatch,Sitta krueperi,1,"Muğla, TR (36.643, 28.89)",TR-48,11 Sep 2023,L27037870,S149642358,,1
+51,21611,species,Eurasian Blue Tit,Cyanistes caeruleus,4,"Muğla, TR (36.643, 28.89)",TR-48,11 Sep 2023,L27037870,S149642358,,1
+52,10952,species,Middle Spotted Woodpecker,Dendrocoptes medius,2,"Muğla, TR (36.643, 28.89)",TR-48,11 Sep 2023,L27037870,S149642358,,1
+53,26385,species,Western Rock Nuthatch,Sitta neumayer,2,"TR (36,634, 28,87)",TR-48,10 Sep 2023,L27037129,S149602700,,1
+54,20835,species,Eurasian Jay,Garrulus glandarius,1,"TR (36,634, 28,87)",TR-48,10 Sep 2023,L27037129,S149602700,,1
+55,28925,species,Red-breasted Flycatcher,Ficedula parva,1,Gülhane Parkı,TR-34,06 Sep 2023,L1523741,S149642357,,1
+56,28196,species,Spotted Flycatcher,Muscicapa striata,1,Gülhane Parkı,TR-34,06 Sep 2023,L1523741,S149642357,,1
+57,27278,species,Common Myna,Acridotheres tristis,11,Gülhane Parkı,TR-34,06 Sep 2023,L1523741,S149642357,N,1
+58,24307,species,Willow Warbler,Phylloscopus trochilus,2,Gülhane Parkı,TR-34,06 Sep 2023,L1523741,S149642357,,1
+59,21672,species,Great Tit,Parus major,1,Gülhane Parkı,TR-34,06 Sep 2023,L1523741,S149642357,,1
+60,21010,species,Eurasian Jackdaw,Corvus monedula,2,Gülhane Parkı,TR-34,06 Sep 2023,L1523741,S149642357,,1
+61,12012,species,Alexandrine Parakeet,Psittacula eupatria,3,Gülhane Parkı,TR-34,06 Sep 2023,L1523741,S149642357,N,1
+62,11056,species,Syrian Woodpecker,Dendrocopos syriacus,1,Gülhane Parkı,TR-34,06 Sep 2023,L1523741,S149642357,,1
+63,12019,species,Rose-ringed Parakeet,Psittacula krameri,4,Galata Kulesi,TR-34,05 Sep 2023,L2102744,S149642356,N,1
+64,4024,species,Alpine Swift,Apus melba,15,Galata Kulesi,TR-34,05 Sep 2023,L2102744,S149642356,,1
+65,2070,species,Laughing Dove,Spilopelia senegalensis,3,Galata Kulesi,TR-34,05 Sep 2023,L2102744,S149642356,,1
+66,30886,species,House Sparrow,Passer domesticus,15,Bahariye Adaları,TR-34,05 Sep 2023,L9643571,S149642355,,1
+67,21076,species,Hooded Crow,Corvus cornix,7,Bahariye Adaları,TR-34,05 Sep 2023,L9643571,S149642355,,1
+68,20963,species,Eurasian Magpie,Pica pica,2,Bahariye Adaları,TR-34,05 Sep 2023,L9643571,S149642355,,1
+69,7299,species,Gray Heron,Ardea cinerea,5,Bahariye Adaları,TR-34,05 Sep 2023,L9643571,S149642355,,1
+70,7159,species,Great Cormorant,Phalacrocorax carbo,12,Bahariye Adaları,TR-34,05 Sep 2023,L9643571,S149642355,,1
+71,7149,species,Pygmy Cormorant,Microcarbo pygmaeus,7,Bahariye Adaları,TR-34,05 Sep 2023,L9643571,S149642355,,1
+72,6449,species,Yellow-legged Gull,Larus michahellis,12,Bahariye Adaları,TR-34,05 Sep 2023,L9643571,S149642355,,1
+73,5405,species,Eurasian Coot,Fulica atra,6,Bahariye Adaları,TR-34,05 Sep 2023,L9643571,S149642355,,1
+74,475,species,Eurasian Wigeon,Mareca penelope,2,Bahariye Adaları,TR-34,05 Sep 2023,L9643571,S149642355,,1
+76,33710,species,Hepatic Tanager,Piranga flava,2,Cave Creek Canyon--South Fork,US-AZ,20 Aug 2023,L129099,S147729241,,1
+77,26441,species,Brown Creeper,Certhia americana,4,Cave Creek Canyon--South Fork,US-AZ,20 Aug 2023,L129099,S147729241,,1
+78,17011,species,Sulphur-bellied Flycatcher,Myiodynastes luteiventris,3,Cave Creek Canyon--South Fork,US-AZ,20 Aug 2023,L129099,S147729241,,1
+79,4692,species,Blue-throated Mountain-gem,Lampornis clemenciae,1,Cave Creek Canyon--South Fork,US-AZ,20 Aug 2023,L129099,S147729241,,1
+80,27476,species,Crissal Thrasher,Toxostoma crissale,1,"Portal, AZ private yard (not open to the public)",US-AZ,20 Aug 2023,L9145680,S147695835,,1
+81,3578,species,Common Poorwill,Phalaenoptilus nuttallii,2,"Portal, AZ private yard (not open to the public)",US-AZ,19 Aug 2023,L9145680,S147662136,,1
+82,33895,species,Blue Grosbeak,Passerina caerulea,1,"Portal, AZ private yard (not open to the public)",US-AZ,19 Aug 2023,L9145680,S147660146,,1
+83,20805,species,Woodhouse's Scrub-Jay,Aphelocoma woodhouseii,1,"Portal, AZ private yard (not open to the public)",US-AZ,19 Aug 2023,L9145680,S147660146,,1
+84,20571,species,Loggerhead Shrike,Lanius ludovicianus,1,"Portal, AZ private yard (not open to the public)",US-AZ,19 Aug 2023,L9145680,S147660146,,1
+85,33917,species,Painted Bunting,Passerina ciris,2,Paradise--George Walker House,US-AZ,19 Aug 2023,L320213,S147660246,,1
+86,33903,species,Lazuli Bunting,Passerina amoena,3,Paradise--George Walker House,US-AZ,19 Aug 2023,L320213,S147660246,,1
+87,4846,species,White-eared Hummingbird,Basilinna leucotis,1,Paradise--George Walker House,US-AZ,19 Aug 2023,L320213,S147660246,,1
+88,33654,species,Painted Redstart,Myioborus pictus,2,Barfoot Park,US-AZ,19 Aug 2023,L128885,S147660147,,1
+89,33513,species,Hermit Warbler,Setophaga occidentalis,2,Pinery Canyon,US-AZ,19 Aug 2023,L129056,S147660148,,1
+90,33509,species,Townsend's Warbler,Setophaga townsendi,1,Pinery Canyon,US-AZ,19 Aug 2023,L129056,S147660148,,1
+91,33504,species,Black-throated Gray Warbler,Setophaga nigrescens,1,Pinery Canyon,US-AZ,19 Aug 2023,L129056,S147660148,,1
+92,33498,species,Grace's Warbler,Setophaga graciae,1,Pinery Canyon,US-AZ,19 Aug 2023,L129056,S147660148,,1
+93,21586,species,Mexican Chickadee,Poecile sclateri,2,Pinery Canyon,US-AZ,19 Aug 2023,L129056,S147660148,,1
+94,18755,species,Cassin's Vireo,Vireo cassinii,1,Pinery Canyon,US-AZ,19 Aug 2023,L129056,S147660148,,1
+95,18736,species,Hutton's Vireo,Vireo huttoni,1,Pinery Canyon,US-AZ,19 Aug 2023,L129056,S147660148,,1
+96,16565,species,Buff-breasted Flycatcher,Empidonax fulvifrons,1,Pinery Canyon,US-AZ,19 Aug 2023,L129056,S147660148,,1
+97,16467,species,Olive-sided Flycatcher,Contopus cooperi,1,Pinery Canyon,US-AZ,19 Aug 2023,L129056,S147660148,,1
+98,8926,species,Spotted Owl,Strix occidentalis,1,Pinery Canyon,US-AZ,18 Aug 2023,L129056,S147660149,,1
+99,3606,species,Mexican Whip-poor-will,Antrostomus arizonae,2,Pinery Canyon,US-AZ,18 Aug 2023,L129056,S147660149,,1
+100,6133,species,Lesser Yellowlegs,Tringa flavipes,,Willcox--Lake Cochise and Twin Lakes Golf Course,US-AZ,18 Aug 2023,L266875,S147660151,,1
+101,6110,species,Wilson's Phalarope,Phalaropus tricolor,,Willcox--Lake Cochise and Twin Lakes Golf Course,US-AZ,18 Aug 2023,L266875,S147660151,,1
+102,23610,species,Barn Swallow,Hirundo rustica,6,Paton Center for Hummingbirds (Patons' Yard),US-AZ,13 Aug 2023,L247122,S147202090,,1
+103,17035,species,Thick-billed Kingbird,Tyrannus crassirostris,1,Paton Center for Hummingbirds (Patons' Yard),US-AZ,13 Aug 2023,L247122,S147202090,,1
+104,7850,species,Mississippi Kite,Ictinia mississippiensis,2,Paton Center for Hummingbirds (Patons' Yard),US-AZ,13 Aug 2023,L247122,S147202090,,1
+105,4969,species,Violet-crowned Hummingbird,Leucolia violiceps,1,Paton Center for Hummingbirds (Patons' Yard),US-AZ,13 Aug 2023,L247122,S147202090,,1
+106,2240,species,Common Ground Dove,Columbina passerina,1,Paton Center for Hummingbirds (Patons' Yard),US-AZ,13 Aug 2023,L247122,S147202090,,1
+107,4760,species,Calliope Hummingbird,Selasphorus calliope,,Mt. Lemmon--upper,US-AZ,11 Aug 2023,L127970,S147052205,,1
+108,26368,species,Pygmy Nuthatch,Sitta pygmaea,4,Mt. Lemmon--upper,US-AZ,28 Jul 2023,L127970,S145885512,,1
+109,33060,species,Bullock's Oriole,Icterus bullockii,1,Paradise--George Walker House,US-AZ,01 Jul 2023,L320213,S145623959,,1
+110,20817,species,Mexican Jay,Aphelocoma wollweberi,4,Paradise--George Walker House,US-AZ,01 Jul 2023,L320213,S145623959,,1
+111,16489,species,Western Wood-Pewee,Contopus sordidulus,1,Paradise--George Walker House,US-AZ,01 Jul 2023,L320213,S145623959,,1
+112,11144,species,Arizona Woodpecker,Dryobates arizonae,2,Paradise--George Walker House,US-AZ,01 Jul 2023,L320213,S145623959,,1
+113,10835,species,Acorn Woodpecker,Melanerpes formicivorus,4,Paradise--George Walker House,US-AZ,01 Jul 2023,L320213,S145623959,,1
+114,1968,species,Band-tailed Pigeon,Patagioenas fasciata,5,Paradise--George Walker House,US-AZ,01 Jul 2023,L320213,S145623959,,1
+115,4763,species,Rufous Hummingbird,Selasphorus rufus,,Mt. Lemmon--upper,US-AZ,30 Jun 2023,L127970,S143253364,,1
+116,33404,species,Yellow Warbler,Setophaga petechia,1,De Anza Trail--Tubac,US-AZ,25 Jun 2023,L234314,S142697819,,1
+117,17025,species,Tropical Kingbird,Tyrannus melancholicus,1,De Anza Trail--Tubac,US-AZ,25 Jun 2023,L234314,S142697819,,1
+118,16859,species,Dusky-capped Flycatcher,Myiarchus tuberculifer,5,De Anza Trail--Tubac,US-AZ,25 Jun 2023,L234314,S142697819,,1
+119,15664,species,Rose-throated Becard,Pachyramphus aglaiae,2,De Anza Trail--Tubac,US-AZ,25 Jun 2023,L234314,S142697819,,1
+120,9949,species,Green Kingfisher,Chloroceryle americana,1,De Anza Trail--Tubac,US-AZ,25 Jun 2023,L234314,S142697819,,1
+121,3206,species,Yellow-billed Cuckoo,Coccyzus americanus,3,De Anza Trail--Tubac,US-AZ,25 Jun 2023,L234314,S142697819,,1
+122,2239,species,Inca Dove,Columbina inca,1,De Anza Trail--Tubac,US-AZ,25 Jun 2023,L234314,S142697819,,1
+123,23494,species,Northern Rough-winged Swallow,Stelgidopteryx serripennis,5,Santa Cruz River--Sasco Rd,US-AZ,21 May 2023,L304521,S138664672,,1
+124,17038,species,Western Kingbird,Tyrannus verticalis,3,Santa Cruz River--Sasco Rd,US-AZ,21 May 2023,L304521,S138664672,,1
+125,4742,species,Black-chinned Hummingbird,Archilochus alexandri,1,Santa Cruz River--Sasco Rd,US-AZ,21 May 2023,L304521,S138664672,,1
+126,33647,species,Red-faced Warbler,Cardellina rubrifrons,1,Mt. Lemmon--Marshall Gulch,US-AZ,19 May 2023,L267654,S138438114,,1
+127,27545,species,Western Bluebird,Sialia mexicana,3,Mt. Lemmon--Marshall Gulch,US-AZ,19 May 2023,L267654,S138438114,,1
+128,18763,species,Plumbeous Vireo,Vireo plumbeus,1,Mt. Lemmon--Marshall Gulch,US-AZ,19 May 2023,L267654,S138438114,,1
+129,16469,species,Greater Pewee,Contopus pertinax,1,Mt. Lemmon--Marshall Gulch,US-AZ,19 May 2023,L267654,S138438114,,1
+130,33855,species,Black-headed Grosbeak,Pheucticus melanocephalus,2,Mt. Lemmon--upper,US-AZ,19 May 2023,L127970,S138438113,,1
+131,32713,species,Spotted Towhee,Pipilo maculatus,4,Mt. Lemmon--upper,US-AZ,19 May 2023,L127970,S138438113,,1
+132,32473,species,Yellow-eyed Junco,Junco phaeonotus,6,Mt. Lemmon--upper,US-AZ,19 May 2023,L127970,S138438113,,1
+133,30052,species,Olive Warbler,Peucedramus taeniatus,2,Mt. Lemmon--upper,US-AZ,19 May 2023,L127970,S138438113,,1
+134,27739,species,Hermit Thrush,Catharus guttatus,2,Mt. Lemmon--upper,US-AZ,19 May 2023,L127970,S138438113,,1
+135,26614,species,House Wren,Troglodytes aedon,2,Mt. Lemmon--upper,US-AZ,19 May 2023,L127970,S138438113,,1
+136,26353,species,Red-breasted Nuthatch,Sitta canadensis,1,Mt. Lemmon--upper,US-AZ,19 May 2023,L127970,S138438113,,1
+137,23543,species,Violet-green Swallow,Tachycineta thalassina,4,Mt. Lemmon--upper,US-AZ,19 May 2023,L127970,S138438113,,1
+138,21575,species,Mountain Chickadee,Poecile gambeli,1,Mt. Lemmon--upper,US-AZ,19 May 2023,L127970,S138438113,,1
+139,16556,species,Cordilleran Flycatcher,Empidonax occidentalis,7,Mt. Lemmon--upper,US-AZ,19 May 2023,L127970,S138438113,,1
+140,4663,species,Rivoli's Hummingbird,Eugenes fulgens,4,Mt. Lemmon--upper,US-AZ,19 May 2023,L127970,S138438113,,1
+141,1207,species,Wild Turkey,Meleagris gallopavo,1,Mt. Lemmon--upper,US-AZ,19 May 2023,L127970,S138438113,,1
+142,32887,species,Yellow-breasted Chat,Icteria virens,1,Saguaro NP--East--Freeman Homestead Trail,US-AZ,13 May 2023,L4209008,S137452410,,1
+143,27525,species,Northern Mockingbird,Mimus polyglottos,1,Saguaro NP--East--Freeman Homestead Trail,US-AZ,13 May 2023,L4209008,S137452410,,1
+144,33735,species,Western Tanager,Piranga ludoviciana,3,Saguaro NP--East--Cactus Forest South Trailhead,US-AZ,13 May 2023,L10250243,S137452406,,1
+145,33157,species,Brown-headed Cowbird,Molothrus ater,1,Saguaro NP--East--Cactus Forest South Trailhead,US-AZ,13 May 2023,L10250243,S137452406,,1
+146,32712,species,Green-tailed Towhee,Pipilo chlorurus,1,Saguaro NP--East--Cactus Forest South Trailhead,US-AZ,13 May 2023,L10250243,S137452406,,1
+147,32654,species,Canyon Towhee,Melozone fusca,1,Saguaro NP--East--Cactus Forest South Trailhead,US-AZ,13 May 2023,L10250243,S137452406,,1
+148,23509,species,Purple Martin,Progne subis,1,Saguaro NP--East--Cactus Forest South Trailhead,US-AZ,13 May 2023,L10250243,S137452406,,1
+149,11586,species,Gilded Flicker,Colaptes chrysoides,2,Saguaro NP--East--Cactus Forest South Trailhead,US-AZ,13 May 2023,L10250243,S137452406,,1
+150,4773,species,Broad-tailed Hummingbird,Selasphorus platycercus,1,Saguaro NP--East--Cactus Forest South Trailhead,US-AZ,13 May 2023,L10250243,S137452406,,1
+151,3474,species,Lesser Nighthawk,Chordeiles acutipennis,1,Home,US-AZ,13 May 2023,L12260655,S137452408,,1
+152,33729,species,Summer Tanager,Piranga rubra,1,Home,US-AZ,30 Apr 2023,L12260655,S135552734,,1
+153,33643,species,Wilson's Warbler,Cardellina pusilla,2,Home,US-AZ,30 Apr 2023,L12260655,S135552734,,1
+154,33327,species,MacGillivray's Warbler,Geothlypis tolmiei,1,Home,US-AZ,30 Apr 2023,L12260655,S135552734,,1
+155,33150,species,Bronzed Cowbird,Molothrus aeneus,2,Home,US-AZ,30 Apr 2023,L12260655,S135552734,,1
+156,33006,species,Hooded Oriole,Icterus cucullatus,1,Home,US-AZ,30 Apr 2023,L12260655,S135552734,,1
+157,16908,species,Brown-crested Flycatcher,Myiarchus tyrannulus,1,Home,US-AZ,30 Apr 2023,L12260655,S135552734,,1
+158,16898,species,Ash-throated Flycatcher,Myiarchus cinerascens,1,Home,US-AZ,30 Apr 2023,L12260655,S135552734,,1
+159,8624,species,Great Horned Owl,Bubo virginianus,1,Home,US-AZ,30 Apr 2023,L12260655,S135552734,,1
+160,623,species,Ring-necked Duck,Aythya collaris,,Reid Park,US-AZ,19 Mar 2023,L227274,S131317633,,1
+161,505,species,Mallard,Anas platyrhynchos,,Reid Park,US-AZ,19 Mar 2023,L227274,S131317633,,1
+162,423,species,Wood Duck,Aix sponsa,2,Reid Park,US-AZ,19 Mar 2023,L227274,S131317633,,1
+163,33303,species,Lucy's Warbler,Leiothlypis luciae,1,De Anza Trail--Tubac,US-AZ,18 Mar 2023,L234314,S131268478,,1
+164,32601,species,Song Sparrow,Melospiza melodia,1,De Anza Trail--Tubac,US-AZ,18 Mar 2023,L234314,S131268478,,1
+165,26787,species,Bewick's Wren,Thryomanes bewickii,1,De Anza Trail--Tubac,US-AZ,18 Mar 2023,L234314,S131268478,,1
+166,21642,species,Bridled Titmouse,Baeolophus wollweberi,4,De Anza Trail--Tubac,US-AZ,18 Mar 2023,L234314,S131268478,,1
+167,4797,species,Broad-billed Hummingbird,Cynanthus latirostris,1,De Anza Trail--Tubac,US-AZ,18 Mar 2023,L234314,S131268478,,1
+168,33811,species,Northern Cardinal,Cardinalis cardinalis,6,Ron Morriss Park,US-AZ,18 Mar 2023,L993428,S131268477,,1
+169,32354,species,Lark Sparrow,Chondestes grammacus,2,Ron Morriss Park,US-AZ,18 Mar 2023,L993428,S131268477,,1
+170,32315,species,Chipping Sparrow,Spizella passerina,1,Ron Morriss Park,US-AZ,18 Mar 2023,L993428,S131268477,,1
+171,32236,species,Rufous-winged Sparrow,Peucaea carpalis,2,Ron Morriss Park,US-AZ,18 Mar 2023,L993428,S131268477,,1
+172,26356,species,White-breasted Nuthatch,Sitta carolinensis,2,Ron Morriss Park,US-AZ,18 Mar 2023,L993428,S131268477,,1
+173,18729,species,Bell's Vireo,Vireo bellii,2,Ron Morriss Park,US-AZ,18 Mar 2023,L993428,S131268477,,1
+174,17032,species,Cassin's Kingbird,Tyrannus vociferans,3,Ron Morriss Park,US-AZ,18 Mar 2023,L993428,S131268477,,1
+175,8231,species,Zone-tailed Hawk,Buteo albonotatus,1,Ron Morriss Park,US-AZ,18 Mar 2023,L993428,S131268477,,1
+176,8199,species,Gray Hawk,Buteo plagiatus,2,Ron Morriss Park,US-AZ,18 Mar 2023,L993428,S131268477,,1
+177,8134,species,Common Black Hawk,Buteogallus anthracinus,8,Ron Morriss Park,US-AZ,18 Mar 2023,L993428,S131268477,,1
+178,4752,species,Anna's Hummingbird,Calypte anna,1,Ron Morriss Park,US-AZ,18 Mar 2023,L993428,S131268477,,1
+179,2382,species,White-winged Dove,Zenaida asiatica,1,Ron Morriss Park,US-AZ,18 Mar 2023,L993428,S131268477,,1
+180,21652,species,Juniper Titmouse,Baeolophus ridgwayi,1,"Hermit Trail, Grand Canyon Village, Arizona, US (36.082, -112.213)",US-AZ,12 Mar 2023,L23119303,S131268476,,1
+181,11572,species,Northern Flicker,Colaptes auratus,1,"Hermit Trail, Grand Canyon Village, Arizona, US (36.082, -112.213)",US-AZ,12 Mar 2023,L23119303,S131268476,,1
+182,4102,species,White-throated Swift,Aeronautes saxatalis,2,"Hermit Trail, Grand Canyon Village, Arizona, US (36.082, -112.213)",US-AZ,12 Mar 2023,L23119303,S131268476,,1
+183,26607,species,Canyon Wren,Catherpes mexicanus,1,Hermit Rapids Campground,US-AZ,11 Mar 2023,L23119340,S135552737,,1
+184,20766,species,Steller's Jay,Cyanocitta stelleri,1,Hermit Rapids Campground,US-AZ,11 Mar 2023,L23119340,S135552737,,1
+185,20765,species,Pinyon Jay,Gymnorhinus cyanocephalus,2,Hermit Rapids Campground,US-AZ,11 Mar 2023,L23119340,S135552737,,1
+186,32343,species,Black-throated Sparrow,Amphispiza bilineata,1,"Hermit Trail, Grand Canyon Village, Arizona, US (36.073, -112.21)",US-AZ,09 Mar 2023,L23119364,S135552736,,1
+187,26573,species,Rock Wren,Salpinctes obsoletus,7,"Hermit Trail, Grand Canyon Village, Arizona, US (36.073, -112.21)",US-AZ,09 Mar 2023,L23119364,S135552736,,1
+188,24702,species,Bushtit,Psaltriparus minimus,6,"Hermit Trail, Grand Canyon Village, Arizona, US (36.073, -112.21)",US-AZ,09 Mar 2023,L23119364,S135552736,,1
+189,21121,species,Common Raven,Corvus corax,1,"Hermit Trail, Grand Canyon Village, Arizona, US (36.073, -112.21)",US-AZ,09 Mar 2023,L23119364,S135552736,,1
+190,11110,species,Hairy Woodpecker,Dryobates villosus,1,"Hermit Trail, Grand Canyon Village, Arizona, US (36.073, -112.21)",US-AZ,09 Mar 2023,L23119364,S135552736,,1
+191,31945,species,Lesser Goldfinch,Spinus psaltria,5,Home,US-AZ,04 Mar 2023,L12260655,S135552735,,1
+192,31648,species,House Finch,Haemorhous mexicanus,2,Home,US-AZ,04 Mar 2023,L12260655,S135552735,,1
+193,29276,species,Phainopepla,Phainopepla nitens,1,Home,US-AZ,04 Mar 2023,L12260655,S135552735,,1
+194,27438,species,Curve-billed Thrasher,Toxostoma curvirostre,1,Home,US-AZ,04 Mar 2023,L12260655,S135552735,,1
+195,26833,species,Cactus Wren,Campylorhynchus brunneicapillus,2,Home,US-AZ,04 Mar 2023,L12260655,S135552735,,1
+196,8044,species,Cooper's Hawk,Accipiter cooperii,2,Home,US-AZ,04 Mar 2023,L12260655,S135552735,,1
+197,3013,species,Greater Roadrunner,Geococcyx californianus,1,Home,US-AZ,04 Mar 2023,L12260655,S135552735,,1
+198,2405,species,Mourning Dove,Zenaida macroura,2,Home,US-AZ,04 Mar 2023,L12260655,S135552735,,1
+199,1042,species,Gambel's Quail,Callipepla gambelii,1,Home,US-AZ,04 Mar 2023,L12260655,S135552735,,1
+200,33831,species,Pyrrhuloxia,Cardinalis sinuatus,,Whitewater Draw WA,US-AZ,04 Feb 2023,L168765,S127713267,,1
+201,31227,species,American Pipit,Anthus rubescens,,Whitewater Draw WA,US-AZ,04 Feb 2023,L168765,S127713267,,1
+202,27553,species,Mountain Bluebird,Sialia currucoides,,Whitewater Draw WA,US-AZ,04 Feb 2023,L168765,S127713267,,1
+203,26755,species,Marsh Wren,Cistothorus palustris,,Whitewater Draw WA,US-AZ,04 Feb 2023,L168765,S127713267,,1
+204,16604,species,Vermilion Flycatcher,Pyrocephalus rubinus,,Whitewater Draw WA,US-AZ,04 Feb 2023,L168765,S127713267,,1
+205,8336,species,Barn Owl,Tyto alba,,Whitewater Draw WA,US-AZ,04 Feb 2023,L168765,S127713267,,1
+206,7873,species,Northern Harrier,Circus hudsonius,,Whitewater Draw WA,US-AZ,04 Feb 2023,L168765,S127713267,,1
+207,6045,species,Western Sandpiper,Calidris mauri,,Whitewater Draw WA,US-AZ,04 Feb 2023,L168765,S127713267,,1
+208,6035,species,Least Sandpiper,Calidris minutilla,,Whitewater Draw WA,US-AZ,04 Feb 2023,L168765,S127713267,,1
+209,5626,species,Sandhill Crane,Antigone canadensis,,Whitewater Draw WA,US-AZ,04 Feb 2023,L168765,S127713267,,1
+210,5372,species,Sora,Porzana carolina,,Whitewater Draw WA,US-AZ,04 Feb 2023,L168765,S127713267,,1
+211,451,species,Cinnamon Teal,Spatula cyanoptera,,Whitewater Draw WA,US-AZ,04 Feb 2023,L168765,S127713267,,1
+212,256,species,Ross's Goose,Anser rossii,,Whitewater Draw WA,US-AZ,04 Feb 2023,L168765,S127713267,,1
+213,16585,species,Say's Phoebe,Sayornis saya,1,"Vía sin nombre, Sonora, MX (32.046, -114.914)",MX-SON,05 Jan 2023,L22086095,S125499348,,1
+214,6086,species,Wilson's Snipe,Gallinago delicata,2,"Vía sin nombre, Sonora, MX (32.046, -114.914)",MX-SON,05 Jan 2023,L22086095,S125499348,,1
+215,5706,species,American Avocet,Recurvirostra americana,10,"Vía sin nombre, Sonora, MX (32.046, -114.914)",MX-SON,05 Jan 2023,L22086095,S125499348,,1
+216,1813,species,Pied-billed Grebe,Podilymbus podiceps,2,"Vía sin nombre, Sonora, MX (32.046, -114.914)",MX-SON,05 Jan 2023,L22086095,S125499348,,1
+217,689,species,Bufflehead,Bucephala albeola,15,"Vía sin nombre, Sonora, MX (32.046, -114.914)",MX-SON,05 Jan 2023,L22086095,S125499348,,1
+218,563,species,Green-winged Teal,Anas crecca,20,"Vía sin nombre, Sonora, MX (32.046, -114.914)",MX-SON,05 Jan 2023,L22086095,S125499348,,1
+219,468,species,Gadwall,Mareca strepera,29,"Vía sin nombre, Sonora, MX (32.046, -114.914)",MX-SON,05 Jan 2023,L22086095,S125499348,,1
+220,464,species,Northern Shoveler,Spatula clypeata,2,"Vía sin nombre, Sonora, MX (32.046, -114.914)",MX-SON,05 Jan 2023,L22086095,S125499348,,1
+221,319,species,Canada Goose,Branta canadensis,4,"Vía sin nombre, Sonora, MX (32.046, -114.914)",MX-SON,05 Jan 2023,L22086095,S125499348,,1
+222,252,species,Snow Goose,Anser caerulescens,80,"Vía sin nombre, Sonora, MX (32.046, -114.914)",MX-SON,05 Jan 2023,L22086095,S125499348,,1
+223,33101,species,Red-winged Blackbird,Agelaius phoeniceus,50,"Baja California 4, Baja California, MX (32.238, -115.231)",MX-BCN,05 Jan 2023,L22086106,S125499394,,1
+224,32893,species,Western Meadowlark,Sturnella neglecta,1,"Baja California 4, Baja California, MX (32.238, -115.231)",MX-BCN,05 Jan 2023,L22086106,S125499394,,1
+225,16574,species,Black Phoebe,Sayornis nigricans,1,"Baja California 4, Baja California, MX (32.238, -115.231)",MX-BCN,05 Jan 2023,L22086106,S125499394,,1
+226,8845,species,Burrowing Owl,Athene cunicularia,1,"Baja California 4, Baja California, MX (32.238, -115.231)",MX-BCN,05 Jan 2023,L22086106,S125499394,,1
+227,7480,species,White-faced Ibis,Plegadis chihi,2,"Baja California 4, Baja California, MX (32.238, -115.231)",MX-BCN,05 Jan 2023,L22086106,S125499394,,1
+228,32512,species,White-crowned Sparrow,Zonotrichia leucophrys,4,"Baja California 4, Baja California, MX (32.255, -115.267)",MX-BCN,05 Jan 2023,L22086116,S125499434,,1
+229,8233,species,Red-tailed Hawk,Buteo jamaicensis,1,"Baja California 4, Baja California, MX (32.255, -115.267)",MX-BCN,05 Jan 2023,L22086116,S125499434,,1
+230,7370,species,Cattle Egret,Bubulcus ibis,7,"Baja California 4, Baja California, MX (32.255, -115.267)",MX-BCN,05 Jan 2023,L22086116,S125499434,,1
+231,5696,species,Black-necked Stilt,Himantopus mexicanus,3,Campo Mosqueda--Camino Entrada,MX-BCN,05 Jan 2023,L1049120,S125499967,,1
+232,724,species,Ruddy Duck,Oxyura jamaicensis,4,Campo Mosqueda--Camino Entrada,MX-BCN,05 Jan 2023,L1049120,S125499967,,1
+233,700,species,Hooded Merganser,Lophodytes cucullatus,7,Campo Mosqueda--Camino Entrada,MX-BCN,05 Jan 2023,L1049120,S125499967,,1
+234,33188,species,Great-tailed Grackle,Quiscalus mexicanus,4,Campo Mosqueda,MX-BCN,05 Jan 2023,L663802,S125500478,,1
+235,32668,species,Abert's Towhee,Melozone aberti,2,Campo Mosqueda,MX-BCN,05 Jan 2023,L663802,S125500478,,1
+236,27969,species,American Robin,Turdus migratorius,100,Campo Mosqueda,MX-BCN,05 Jan 2023,L663802,S125500478,,1
+237,26556,species,Black-tailed Gnatcatcher,Polioptila melanura,2,Campo Mosqueda,MX-BCN,05 Jan 2023,L663802,S125500478,,1
+238,26270,species,Ruby-crowned Kinglet,Corthylio calendula,2,Campo Mosqueda,MX-BCN,05 Jan 2023,L663802,S125500478,,1
+239,11697,species,American Kestrel,Falco sparverius,2,Campo Mosqueda,MX-BCN,05 Jan 2023,L663802,S125500478,,1
+240,10865,species,Gila Woodpecker,Melanerpes uropygialis,1,Campo Mosqueda,MX-BCN,05 Jan 2023,L663802,S125500478,,1
+241,7223,species,American White Pelican,Pelecanus erythrorhynchos,14,Campo Mosqueda,MX-BCN,05 Jan 2023,L663802,S125500478,,1
+242,7195,species,Neotropic Cormorant,Nannopterum brasilianum,500,Campo Mosqueda,MX-BCN,05 Jan 2023,L663802,S125500478,,1
+243,5418,species,American Coot,Fulica americana,7,Campo Mosqueda,MX-BCN,05 Jan 2023,L663802,S125500478,,1
+244,5386,species,Common Gallinule,Gallinula galeata,4,Campo Mosqueda,MX-BCN,05 Jan 2023,L663802,S125500478,,1
+245,6654,species,Royal Tern,Thalasseus maximus,10,Laguna Percebu,MX-BCN,04 Jan 2023,L1364818,S125500002,,1
+246,6437,species,California Gull,Larus californicus,5,Laguna Percebu,MX-BCN,04 Jan 2023,L1364818,S125500002,,1
+247,5737,species,Black-bellied Plover,Pluvialis squatarola,1,Laguna Percebu,MX-BCN,04 Jan 2023,L1364818,S125500002,,1
+248,5725,species,American Oystercatcher,Haematopus palliatus,4,Laguna Percebu,MX-BCN,04 Jan 2023,L1364818,S125500002,,1
+249,33469,species,Yellow-rumped Warbler,Setophaga coronata,1,"Baja California, MX (30.476, -114.668)",MX-BCN,04 Jan 2023,L22086236,S125500059,,1
+250,33348,species,Common Yellowthroat,Geothlypis trichas,1,Estero Guerrero Negro (Baja California),MX-BCN,03 Jan 2023,L1071004,S125500477,,1
+251,9939,species,Belted Kingfisher,Megaceryle alcyon,1,Estero Guerrero Negro (Baja California),MX-BCN,03 Jan 2023,L1071004,S125500477,,1
+252,7444,species,Yellow-crowned Night-Heron,Nyctanassa violacea,20,Estero Guerrero Negro (Baja California),MX-BCN,03 Jan 2023,L1071004,S125500477,,1
+253,7430,species,Black-crowned Night-Heron,Nycticorax nycticorax,1,Estero Guerrero Negro (Baja California),MX-BCN,03 Jan 2023,L1071004,S125500477,,1
+254,7358,species,Tricolored Heron,Egretta tricolor,5,Estero Guerrero Negro (Baja California),MX-BCN,03 Jan 2023,L1071004,S125500477,,1
+255,7356,species,Little Blue Heron,Egretta caerulea,4,Estero Guerrero Negro (Baja California),MX-BCN,03 Jan 2023,L1071004,S125500477,,1
+256,6427,species,Ring-billed Gull,Larus delawarensis,1,Estero Guerrero Negro (Baja California),MX-BCN,03 Jan 2023,L1071004,S125500477,,1
+257,6368,species,Bonaparte's Gull,Chroicocephalus philadelphia,1,Estero Guerrero Negro (Baja California),MX-BCN,03 Jan 2023,L1071004,S125500477,,1
+258,6130,species,Willet,Tringa semipalmata,1,Estero Guerrero Negro (Baja California),MX-BCN,03 Jan 2023,L1071004,S125500477,,1
+259,6054,species,Long-billed Dowitcher,Limnodromus scolopaceus,7,Estero Guerrero Negro (Baja California),MX-BCN,03 Jan 2023,L1071004,S125500477,,1
+260,5971,species,Marbled Godwit,Limosa fedoa,20,Estero Guerrero Negro (Baja California),MX-BCN,03 Jan 2023,L1071004,S125500477,,1
+261,5941,species,Long-billed Curlew,Numenius americanus,1,Estero Guerrero Negro (Baja California),MX-BCN,03 Jan 2023,L1071004,S125500477,,1
+262,5866,species,Killdeer,Charadrius vociferus,2,Estero Guerrero Negro (Baja California),MX-BCN,03 Jan 2023,L1071004,S125500477,,1
+263,5843,species,Semipalmated Plover,Charadrius semipalmatus,1,Estero Guerrero Negro (Baja California),MX-BCN,03 Jan 2023,L1071004,S125500477,,1
+264,1834,species,Eared Grebe,Podiceps nigricollis,3,Estero Guerrero Negro (Baja California),MX-BCN,03 Jan 2023,L1071004,S125500477,,1
+265,716,species,Red-breasted Merganser,Mergus serrator,2,Estero Guerrero Negro (Baja California),MX-BCN,03 Jan 2023,L1071004,S125500477,,1
+266,548,species,Northern Pintail,Anas acuta,25,Estero Guerrero Negro (Baja California),MX-BCN,03 Jan 2023,L1071004,S125500477,,1
+267,477,species,American Wigeon,Mareca americana,5,Estero Guerrero Negro (Baja California),MX-BCN,03 Jan 2023,L1071004,S125500477,,1
+268,291,species,Brant,Branta bernicla,100,Estero Guerrero Negro (Baja California),MX-BCN,03 Jan 2023,L1071004,S125500477,,1
+269,26560,species,California Gnatcatcher,Polioptila californica,3,Playa de Requeson,MX-BCS,02 Jan 2023,L1100000,S125245432,,1
+270,26546,species,Blue-gray Gnatcatcher,Polioptila caerulea,2,Playa de Requeson,MX-BCS,02 Jan 2023,L1100000,S125245432,,1
+271,21762,species,Verdin,Auriparus flaviceps,1,Playa de Requeson,MX-BCS,02 Jan 2023,L1100000,S125245432,,1
+272,11095,species,Ladder-backed Woodpecker,Dryobates scalaris,2,Playa de Requeson,MX-BCS,02 Jan 2023,L1100000,S125245432,,1
+273,7565,species,Osprey,Pandion haliaetus,1,Playa de Requeson,MX-BCS,02 Jan 2023,L1100000,S125245432,,1
+274,7550,species,Turkey Vulture,Cathartes aura,6,Playa de Requeson,MX-BCS,02 Jan 2023,L1100000,S125245432,,1
+275,7384,species,Green Heron,Butorides virescens,1,Playa de Requeson,MX-BCS,02 Jan 2023,L1100000,S125245432,,1
+276,7363,species,Reddish Egret,Egretta rufescens,1,Playa de Requeson,MX-BCS,02 Jan 2023,L1100000,S125245432,,1
+277,7352,species,Snowy Egret,Egretta thula,2,Playa de Requeson,MX-BCS,02 Jan 2023,L1100000,S125245432,,1
+278,7323,species,Great Egret,Ardea alba,1,Playa de Requeson,MX-BCS,02 Jan 2023,L1100000,S125245432,,1
+279,7291,species,Great Blue Heron,Ardea herodias,1,Playa de Requeson,MX-BCS,02 Jan 2023,L1100000,S125245432,,1
+280,7224,species,Brown Pelican,Pelecanus occidentalis,1,Playa de Requeson,MX-BCS,02 Jan 2023,L1100000,S125245432,,1
+281,6126,species,Greater Yellowlegs,Tringa melanoleuca,1,Playa de Requeson,MX-BCS,02 Jan 2023,L1100000,S125245432,,1
+282,6116,species,Spotted Sandpiper,Actitis macularius,2,Playa de Requeson,MX-BCS,02 Jan 2023,L1100000,S125245432,,1
+283,5931,species,Whimbrel,Numenius phaeopus,1,Playa de Requeson,MX-BCS,02 Jan 2023,L1100000,S125245432,,1
+284,4755,species,Costa's Hummingbird,Calypte costae,2,Playa de Requeson,MX-BCS,02 Jan 2023,L1100000,S125245432,,1
+285,649,species,Lesser Scaup,Aythya affinis,1,Playa de Requeson,MX-BCS,02 Jan 2023,L1100000,S125245432,,1
+286,617,species,Redhead,Aythya americana,70,Playa de Requeson,MX-BCS,02 Jan 2023,L1100000,S125245432,,1
+75,259,species,Graylag Goose,Anser anser,20,Bahariye Adaları,TR-34,05 Sep 2023,L9643571,S149642355,X,0
+42,289,domestic,Domestic goose sp. (Domestic type),Anser sp. (Domestic type),5,Çalış kuş cenneti,TR-48,16 Sep 2023,L6799394,S149991724,X,0
