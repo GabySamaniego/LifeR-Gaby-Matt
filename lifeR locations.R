@@ -26,7 +26,7 @@ my_species <- user_list$Common.Name
 key <- scan(file = "API.txt", what = "character")
 
 # A single center requires vector of coordinates
-locs <- c(32.160953, -110.742053)
+locs <- c(31.543256, -110.747681)
 SitesReport(centers = locs, 
             ebird_key = key, 
             species_seen = my_species)
@@ -48,7 +48,7 @@ key <- scan(file = "API.txt", what = "character")
 
 # A single center requires vector of coordinates
 # Change these, unless you really want to go birding near McCall, Idaho
-locs_23 <- c(32.470388, -111.474568)
+locs_23 <- c(32.1629015, -110.7417044)
 SitesReport(centers = locs_23, 
             ebird_key = key, 
             species_seen = my_species_23)
